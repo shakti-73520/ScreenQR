@@ -18,7 +18,7 @@ print = "1.1.0"
 zxing = "3.5.4"
 eddsa = "0.3.0"
 libphonenumber = "9.0.38"
-libphonenumberGeocoder = "3.38"
+libphonenumberGeocoder = "3.43"
 libphonenumberCarrier = "2.38"
 junit = "4.13.2"
 
