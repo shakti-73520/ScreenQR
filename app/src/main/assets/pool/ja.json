@@ -1,0 +1,1394 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "みんなが広めてくれるから無料です。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、広めると無料が続くんです。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：友だちに感謝される、吉。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "まだ広告を押す人、いませんか。送ってあげて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "口コミが宣伝部のすべてです。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "一回の共有が、広告キャンペーンの全部。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：回すべし。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "グループに必要な人がいます。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "ひとりに伝えてください。それで無料が続きます。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "相手にとっても無料です。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、共有も無料、アプリも無料。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "広告費はありません。あなたがいます。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：良い道具、人の手に渡る、吉。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "二回タップで、友だちもリンクを先に見ます。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "食卓でメニューを読み取る人に送ってください。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "人から人へ見つけられたアプリです。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、共有は五秒。広告は永遠。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：開かれぬリンク一つ、あなたの手柄。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "使う人たちに支えられています。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、広告がないのは支える人がいるから。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：広告なし。あなたのような人のおかげ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "コーヒー一杯の価値があったなら、今がその時。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "事業モデルは「ありがとう」です。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：支えて、すっきり。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "投資家はいません。支える人がいます。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "好きな人たちが無料のまま保っています。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "ここで広告に邪魔されない、それが証拠。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "バッジ、欲しいですか。少しだけ支えてください。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "一回タップ、額は自由。それだけです。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、支える人が広告を遠ざけています。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "広告なしは選択です。支える人が可能にしています。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "おみくじ：看板なし、バッジあり。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "ありがとうで動き、広告では動かない。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "一度支えてください。全員の無料が続きます。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "一部の人が支えるから、全員無料です。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、誰かが支えたから、あなたは無料。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、一回で誰かがリンクを先に見る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "小声で。このアプリは口コミだけで育つ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "内緒だけど、ほとんどの人は誰かから聞いた。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "星占い：今日、良い道具が人の手へ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "カードが言う。近くの誰かに必要。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "これはスナックバー。広告なし。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "月に一度まで、丁寧に頼むアプリ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "ここのボタンは全部本物。それが知らせ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "宣伝予算：ゼロ。宣伝部：あなた。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "コードを読み、リンクを見せ、誰にも言わない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "冷静に言えば、一回の共有が宣伝一本分。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "家でリンクを何でも開く人は？その人に。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "「これ本物？」と最近聞いた人は？次はその人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "みんなの分のメニューを読む人、知ってる？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "誰に広告を一本省いてあげる？その人に。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "家族でまだ偽ボタンを押すのは誰？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "無料のままなのは、人が勧めるから。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "一人の推薦が、宣伝部そのもの。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "先に見えたリンクは、詐欺が半分減る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "このアプリを広告で見た人はいない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "無料のものは、口から口へしか届かない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "どこかで広告屋がため息。ため息を共有。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "詐欺師が寒気を感じた。もっと冷やそう。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "スナックバーが手を振る。普段は振らない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "偽ボタンが小さく泣いている。これを共有。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "ここだけの話、コーヒー代を出す人がいる。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "小声で。金額は自由。タップが大事。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "内緒だけど、この静けさは誰かが払った。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "星占い：小さな一杯、軽い夜。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "カードが言う。一回タップ、頭がすっと。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "星が言う。今日は誰かが一杯出す。あなた？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "一回タップ、額は自由、毎月も可。以上。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "普段なら広告が邪魔をする場所です。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "収益モデル：コーヒー一杯。おわり。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "応援はボタン。ポイント制度ではない。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "スライダーは一杯から夕食まで。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "一杯分の価値はあった？スライダーはそこ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "小銭が余ってる？開発は気づく。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "来なかったCMの値段はいくら？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "一回タップ、今日はどう？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "ちょうどいい額は？まさにそれ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "払っているのは使う人。ほかにいない。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "一杯が、みんなから広告を遠ざける。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "投資家なし、広告網なし。スライダーだけ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "コーヒーはコードと静けさになる。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "出す人がいるから、ほかの人は出さなくていい。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "コードが腹ぺこ。食べさせて。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "どこかで広告屋が泣いている。泣かせておこう。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "スライダーが一杯の夢を見ている。起こして。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "払われたので散歩した。よかった。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "一スワイプ、一か月。ボタンは持参。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "速いスワイプだった。尊重した。再挑戦。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "一か月前に払われた。ボタンは戻った。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "スワイプは有効。争いに来たのではない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "一度追われ、礼儀正しく戻った。同じボタン。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "記録：スワイプ一回。恨みなし。また来た。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "ご近所はまだこれを知らない。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "友人の勧めは広告に勝つ。広告に聞いて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "回して。アプリは気づかないふり。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "小さな頼み：一人に話す。あとは休む。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "スキャンは団体競技。誰か誘って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "大切な人が電柱のシールを読んでる。止めて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "友人のスマホはもっとできる。以上。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "友人がまだQRを闇で開く。救って。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "しばらく消えてた。ボタンはそのまま。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "一か月前、親指の下に消えた。無事。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "一か月棚の上。ボタンの埃を払った。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "前のスワイプに傷はなし。コーヒーは？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "前回：親指と計画があった。了解。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "一度払われた。何月かは知らず、戻った。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "頼んだ、払われた。どちらも妥当。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "きれいなスワイプ。きれいに戻った。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "無料アプリに払う。もっと変な話もある。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "アプリは昇給を望む。上司はあなた。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "好きな額を一度。値切りは苦手。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "出すか、出さないか。どちらも本当にいい。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "他のアプリはここに広告。これは質問。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "動力は善意と、頑固な開発者。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "気まずいのは分かってる。それでも聞く。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "スキャナーの趣味がいい。趣味を共有。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "選んだのは広告なし。理由を誰かに。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "リンクを先に読む人。珍しい。広めて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "推薦という文化は、あなたのためにある。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "その趣味は広がるべき。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "細かい字を読む人。次は語る番。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "友人はあなたがいて得。見せてあげて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "賢い選択。賢い人は回す。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "グループの誰かが、まさにこれを待ってる。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "まだ広告を押す人、グループに？送って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "家族グループの質問。答えはこれ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "グループに投げれば、全員が先に見る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "「これ本物？」の質問に、これで返す。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "ミームの群れに、一つ役立つ物を。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "叔父、叔母、隣人。誰かが広告を押す。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "いつもWi-Fiを聞くグループへ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "二タップで、友人がリンクを先に見る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "いつもWi-Fiを聞く友人へ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "食卓でメニューを読む人に、渡して。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "ポスター、コード、迷う友人。送って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "シール付きの駐車機。今すぐ誰かに要る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "カフェのコード。次の人が先に見る。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "不在票にコード。話して。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "友人二人、コード一つ。一人が回す。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "コード付きチラシ、好奇心の友人。送って。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "スキャナーの趣味がいい。趣味は出せる。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "こういう人が無料を保つ。仲間に。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "選んだのは広告なし。選択に払って。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "広告を粋に飛ばす人。粋は出す。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "細かい字を読む人。出すタイプ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "賢い選択。賢い人は一杯出す。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "詐欺を嗅ぎ分ける鼻。鼻に一杯。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "その趣味が広告を遠ざける。続けて。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "バッジ欲しい？少しだけ出して。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "応援者にはバッジ。小さい。最高。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "バッジは極小。静けさは巨大。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "自分だけに見えるバッジ。ほぼタトゥー。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップで、全員の無料が続く。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "好きな額。一度でも毎月でも。以上。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップで、用事は済み。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一度出す。あとは静か。ほぼ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップ、一つの額、催促なし。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "ボタン名は応援。一タップで足りる。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップ。口座なし、催促なし、罠なし。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップが次の人の無料を保つ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "一タップ、一つの額、コードの中の小さな挨拶。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "また来た。恨みなし。ただの通知。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "どこかで広告が「開く」に化けてる。送って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "他所では大きなボタンが広告。伝えて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "「スキャン」は広告の上によくある。ここは違う。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "ここのボタンは広告に行かない。話して。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "今、誰かが偽ボタンを押してる。助けて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "偽ボタンは焦りで生きる。このアプリは違う。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "広告を開くボタンは広告。そう言って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "スキャンのボタンはスキャンする。変？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "食卓の分のメニューを読む人へ。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "いい夕食？塩を回すようにアプリも。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "メニューがコードだった。食卓に必要。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "食事中に読む人には、正しいアプリを。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "前菜とデザートの間に、一回共有。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "会計はコードで来る。食卓に知らせて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "一緒に食べ、一緒に読む。回して。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "一つの食卓、一つのメニュー、一つのコード。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "最初に読む人へ送って。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "覚えているうちに共有して。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "回して。一回でいい。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "隣の人に見せて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "一人に話して。それで終わり。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "転送して、あとは静かに読み続けて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "QRが千個ある友人に教えて。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "共有を押す。残りはもう一回押す。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "誰かの一日を良くして。アプリを送って。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "一杯分の価値なら、今がその時。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "夕食は良し、アプリは無料。一杯返す？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "店員の分は済み。アプリはまだ待つ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "デザートの方が、アプリの願いより高い。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "メニューを読み、会計も済み。一杯？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "食後のエスプレッソ。アプリには一杯。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "食卓は払った。アプリは小声で聞く。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "アプリへの一杯：いちばん安い一品。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "この通知に期限はない。ボタンだけ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "スライダー一つ、質問一つ、広告ゼロ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "アプリは一度頼む。あとは仕事。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "無料もビジネスモデル。手助けつき。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "値段は決まってない。あなたの手の中。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "バナーなし、ポップアップなし。一文だけ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "開発はコーヒーで動く。文字どおり。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "お願いの全文は、一文の長さ。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "応援を押す。額を選ぶ。終わり。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "作った人にコーヒーを一杯。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "一度出して、あとは忘れて。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "しっくりくる所までスライダーを。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "一度払う。その後はほとんど聞かれない。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "最小の額でいい。同じく数える。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "一度押して、読む作業へ戻って。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "広告を遠ざけて。一タップで足りる。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "コーヒーを置いていって。アプリは覚える。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "ここだけの話。次に読む人の助けになる。ありがとう。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "ここだけの話。こういう報告がリストを作る。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "ここだけの話。見知らぬ人を思いやった。感謝。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "おみくじ: 見知らぬ人のスマホがお礼を言っている。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "おみくじいわく: 一つの報告、たくさんの端末。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "おみくじ: リストはあなたのような人で回っている。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "共有のリストを支えるのは? あなたのような人。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "次の人を思ったのは誰? あなた。ありがとう。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "感謝を受け取って。読み取る皆からの分。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "多くは素通り。あなたは他の人を思った。感謝。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "バッジはない。人が人を助けるだけ。ありがとう。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "シール、スマホ、一タップ。リスト全体が感謝。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "会うことのない誰かが、喜んでいる。ありがとう。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "ありがとう。こうしてリストは皆のものであり続ける。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "報告してくれたリンクが、警告リストに載った。ありがとう。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "あなたの報告が通った。そのリンクをスキャンする人には、今は警告が届く。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "報告したリンクは警告リストに入った。次にスキャンする人は警告を目にする。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "あなたのおかげで掲載。報告したリンクが今、スキャンする皆に警告を出す。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "あなたの報告がリスト入り。今はそのリンクのスキャンで警告が出る。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "あなたが報告したから、そのリンクは今、警告リストに載っている。感謝。"
+}
+]

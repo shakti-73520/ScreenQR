@@ -1,0 +1,1388 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "Gratis porque la gente lo comparte."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Compartir lo mantiene gratis. Pásalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Tu galleta de la fortuna: alguien te lo agradecerá."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿Conoces a alguien que aún toca el anuncio? Envíaselo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "El boca a boca es todo el departamento de marketing."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "Un envío es toda la campaña de publicidad."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "La galleta de la fortuna dice: pásalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "Alguien en tu grupo necesita esto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "Cuéntaselo a una persona. Así sigue gratis."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "Para ellos también es gratis."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Compartir es gratis. La app también. Curioso."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Verdetto no tiene presupuesto para anuncios. Te tiene."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Tu fortuna: una buena herramienta cambiará de manos."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dos toques y un amigo ve los enlaces antes de abrir."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Mándaselo a quien escanea la carta en la mesa."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "La app que la gente encontró por otra gente."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Compartir: cinco segundos. Un anuncio: eterno."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Tu fortuna: un enlace no se abrirá, gracias a ti."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Verdetto lo pagan las personas que lo usan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Sin anuncios porque la gente aporta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Tu fortuna: sin anuncios, gracias a gente como tú."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "Si valió un café, este es el momento."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "El modelo de negocio: gente que da las gracias."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "La galleta de la fortuna dice: aporta y siéntete bien."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Sin inversores. Con gente que apoya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Se mantiene gratis gracias a quienes la aprecian."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "Aquí es donde ningún anuncio te interrumpe."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "¿Quieres una insignia? Aporta una vez."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Un toque, una vez, lo que quieras. Ese es el discurso."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Los que apoyan dejan fuera los anuncios. ¿Y tú?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Sin anuncios es una decisión. La sostiene quien apoya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Tu fortuna: sin carteles, pero con insignia."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Gracias, no anuncios. Ese es todo el plan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "Aporta una vez y sigue gratis para todos."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Gratis para todos porque algunos aportan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Alguien aportó y por eso es gratis para ti."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Un toque, y alguien más ve el enlace primero."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "En voz baja: la app crece solo cuando la cuentan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Entre nosotros: casi todos la conocen por alguien."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Horóscopo: hoy una buena herramienta cambia de manos."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Las cartas dicen: alguien cerca necesita esta app."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Esto es una snackbar. Sin anuncio dentro. Cuéntalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Una app que pregunta con educación una vez al mes."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Ningún botón de aquí es un anuncio. Ese es el aviso."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Presupuesto de publicidad: cero. Departamento: tú."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Lee códigos. Muestra enlaces. No se lo cuenta a nadie."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Visto con frialdad: compartir sustituye una campaña."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿Quién en tu casa abre todos los enlaces? Mándasela."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿Quién preguntó hace poco si algo era real? Le toca."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿Conoces a alguien que escanea el menú para la mesa?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿A quién le ahorrarías un anuncio? A esa persona."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "¿Quién de la familia sigue tocando el botón falso?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Sigue siendo gratis porque la gente la recomienda."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Una recomendación es todo el equipo de marketing."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Un enlace visto a tiempo es media estafa menos."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Nadie ha visto esta app en un anuncio. Nunca."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Lo que no cuesta nada solo viaja de boca en boca."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Por ahí suspira un publicista. Comparte el suspiro."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Un estafador siente un escalofrío. Hazlo peor."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "La snackbar saluda. Las snackbars nunca saludan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Un botón falso llora bajito. Comparte eso."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Sin anuncios porque hay quien paga un café."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "En voz baja: el importe da igual. El toque cuenta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Entre nosotros: esta paz sin anuncios la pagó alguien."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Horóscopo: un pequeño aporte, una tarde ligera."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Las cartas dicen: un toque, y la cabeza en paz."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Las estrellas opinan: hoy alguien aporta algo. ¿Tú?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Un toque, un importe, una vez. Sin trampa ni cuota."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Este es el sitio donde normalmente molesta un anuncio."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Modelo de negocio: la gente paga un café. Ya está."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Apoyar es un botón, no un programa de puntos."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "El control va de un café a una cena. Tú eliges."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "¿Valió un café? El control está justo ahí."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "¿Te sobra algo de cambio? El desarrollo se da cuenta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "¿Cuánto vale una pausa publicitaria que nunca llegó?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Un toque, una vez. ¿Hoy, quizá?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "¿Qué importe te parece justo? Exactamente ese."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "La pagan las personas que la usan. Nadie más."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Un aporte mantiene los anuncios lejos de todos."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Sin inversores, sin red publicitaria. Solo un control."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Cada café acaba en código y en tranquilidad."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Quien aporta paga para que nadie más deba hacerlo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "El código tiene hambre. Dale de comer."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Por ahí llora un publicista. Que siga llorando."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "El control sueña con un café. Despiértalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Me apartaste, así que salí a pasear. Estuvo bien."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Un deslizamiento, un mes. Traje el botón de vuelta."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "El gesto fue rápido y lo respeté. Otro intento."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Me deslizaste hace un mes. El botón volvió igual."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "El gesto se respeta. No vine a discutirlo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Despachada una vez, vuelvo con educación. Mismo botón."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Anotado, con cariño: un gesto. Y aquí estoy otra vez."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Los vecinos todavía no se han enterado de esto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Una recomendación gana a un anuncio. Pregúntale a uno."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Pásala. La app fingirá que no se ha dado cuenta."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Favor pequeño: menciónala a alguien. Luego descansa."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Escanear ya es deporte de equipo. Recluta a alguien."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Alguien querido escanea pegatinas en postes. Intervén."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Los móviles de tus amigos podrían dar más. Nada más."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Un amigo aún abre enlaces QR a ciegas. Rescátalo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Me fui un rato. El botón se quedó donde estaba."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Hace un mes desaparecí bajo tu pulgar. Estoy bien."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Un mes en la estantería. Le quité el polvo al botón."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "El último gesto no dejó moratón. ¿Un café?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "La otra vez tenías un pulgar y un plan. Entendido."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Apartada una vez. De vuelta en el mes que sea."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Pregunté y deslizaste. Las dos cosas, razonables."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "El gesto fue seco. He vuelto, también seca."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Pagar por una app gratis. Hay cosas más raras."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "La app querría un aumento. Su jefe eres tú."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Paga lo que quieras, una vez. La app regatea fatal."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Aporta o pásalo. Las dos están bien, de verdad."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Otras apps ponen aquí un anuncio. Esta, una pregunta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "La app va con buena voluntad y un desarrollador terco."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "La app sabe que esto es incómodo. Lo hace igual."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Tienes buen gusto para escáneres. Comparte el gusto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Elegiste la que no tiene anuncios. Cuenta por qué."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Lees los enlaces primero. Raro. Propágalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Eres la razón de que existan las recomendaciones."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Un gusto como el tuyo debería extenderse."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Lees la letra pequeña. Ahora cuéntalo tú."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Tus amigos salen ganando contigo. Demuéstralo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Buena elección. La gente lista la pasa."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "En el grupo hay alguien esperando justo esto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "¿Quién del grupo sigue tocando el anuncio? Mándaselo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "El grupo familiar pregunta. Aquí va una respuesta."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Al grupo con ello, y todos ven los enlaces primero."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Alguien del chat pregunta si es real. Responde así."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "El grupo comparte memes. Comparte algo útil una vez."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Tío, tía, vecino: uno de ellos toca el anuncio."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Mándala al grupo que siempre pide la wifi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dos toques y un amigo ve los enlaces primero."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Para el amigo que siempre pregunta por la wifi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "En la mesa alguien escanea la carta. Dale la app."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Un cartel, un código, un amigo con dudas. Mándasela."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Parquímetro con pegatina. Alguien necesita esto ya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Código en el café. Que el siguiente lo vea primero."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "El aviso del paquete trae un código. Cuéntalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dos amigos, un código. Uno comparte la app."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Folleto con código, amigo con curiosidad. Mándasela."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Buen gusto para escáneres. El gusto puede aportar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Gente como tú la mantiene gratis. Sé gente como tú."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Elegiste la que no tiene anuncios. Paga la elección."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Saltas anuncios con estilo. El estilo puede dar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Lees la letra pequeña. Eres de los que aportan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Buena elección. La gente lista paga un café."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Hueles las estafas. Un café para el olfato."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Tu gusto mantiene lejos los anuncios. Sigue así."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Quien apoya recibe una insignia. Pequeña. Excelente."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "La insignia es diminuta. La tranquilidad, enorme."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Una insignia que solo tú ves. Casi un tatuaje."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Con un toque sigue gratis para todo el mundo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Cualquier importe, una vez o cada mes. Ya está."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Un toque y asunto resuelto."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Aporta una vez. Después, silencio. Casi siempre."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Un toque, un importe, el ritmo lo eliges tú."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "El botón se llama Apoyar. Con un toque basta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Un toque. Sin cuenta, sin trampa, sin insistir."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Un toque la mantiene gratis para el siguiente."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Un toque, un importe, un saludo en el código."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Otra visita, sin rencor. Solo una snackbar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Por ahí un anuncio se disfraza de «Abrir». Manda esto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "En otros, el botón grande es un anuncio. Cuéntalo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "«Escanear» suele estar escrito en un anuncio. Aquí no."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Aquí ningún botón lleva a un anuncio. Cuenta eso."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Alguien toca el botón falso ahora mismo. Ayuda."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "El botón falso vive de la prisa. Esta app no."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Si el botón abre un anuncio, es un anuncio. Dilo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Un botón de escanear debería escanear. Locura, ¿no?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Mándala a quien escanea la carta para toda la mesa."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "¿Buena cena? Pasa la app como pasaste la sal."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "La carta era un código. La mesa necesita esto."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Quien escanea cenando merece la app correcta."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Entre el primero y el postre: compartir una vez."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "La cuenta llega por código. Que la mesa lo sepa."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Comer juntos, escanear juntos. Pásala."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Una mesa, una carta, un código. Un compartir."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Mándasela a quien escanee primero."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Compártela mientras te acuerdas."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Pásala. Con una vez basta."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Enséñasela a la persona de al lado."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Cuéntaselo a una persona. Y ya has terminado."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Reenvíala y sigue escaneando tranquilo."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Díselo al amigo de los mil códigos QR."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Toca Compartir. Lo demás es otro toque."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Alégrale el día a alguien: mándale la app."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Si eso valía un café, este es el momento."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Cena bien, app gratis. ¿Un café de vuelta?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "El camarero ya tiene lo suyo. La app sigue esperando."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Un postre cuesta más de lo que la app pidió nunca."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Carta escaneada, cuenta pagada. ¿Un café?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Un espresso después. Y un café para la app."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "La mesa ya pagó. La app pregunta una vez, bajito."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Un café para la app: el plato más barato."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Este aviso no caduca. Solo tiene un botón."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Un control, una pregunta, cero anuncios. Listo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "La app pide una vez. Luego sigue trabajando."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Gratis es un modelo de negocio. Con ayuda."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "El precio no está fijado. Está en tu mano."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Sin banner, sin ventana emergente. Una sola frase."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Toca Apoyar. Elige un importe. Listo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Invita a un café a quien la desarrolla."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Aporta una vez y luego olvídalo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Mueve el control hasta donde te parezca bien."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Paga una vez. Después casi nadie vuelve a preguntar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Elige el importe más pequeño. Cuenta igual."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Toca una vez y vuelve a escanear."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Mantén lejos los anuncios. Con un toque basta."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Deja un café. La app se acuerda."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "El desarrollo funciona con café. Literalmente."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Toda la súplica, de largo, es una frase."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Eso ayuda al siguiente que lo escanee. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Informes como el tuyo hacen la lista. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Pensaste en desconocidos. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Tu fortuna: un teléfono ajeno te da las gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "La galleta dice: un informe, muchos teléfonos."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Tu fortuna: gente como tú hace que la lista funcione."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "¿Quién sostiene una lista compartida? Gente como tú."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "¿Quién piensa en el siguiente? Tú lo hiciste. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "Acepta las gracias. Vienen de todos los que escanean."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "La mayoría pasa de largo. Tú pensaste en los demás."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "Sin insignias. Solo gente que ayuda a gente. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Pegatina, teléfono, toque. Toda la lista da gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Alguien que nunca conocerás se alegra. Gracias."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "Gracias. Así la lista sigue siendo de todos."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Un enlace del que informaste ya está en la lista de advertencia. Gracias."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Tu informe funcionó. Ese enlace ahora advierte a quienes lo escanean."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "El enlace de tu informe está en la lista. Quien lo escanee verá la advertencia."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "En la lista, gracias a ti. Un enlace de tus informes avisa a quien lo escanea."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Tu informe llegó a la lista. Escanear ese enlace ya muestra una advertencia."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Por tu informe, la lista de advertencia ya incluye ese enlace. Gracias."
+}
+]

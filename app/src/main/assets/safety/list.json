@@ -1,0 +1,635 @@
+{
+  "format": "LSL2",
+  "version": 1791764337,
+  "generated_at": "2026-10-12T00:18:57+00:00",
+  "expires": "2026-10-26T00:18:57+00:00",
+  "prefix_bytes": {
+    "url": 8,
+    "host": 6,
+    "address": 8
+  },
+  "assets": {
+    "list.bin": {
+      "sha256": "5c66dcf0a85ce94aae909ec91de2c3b20988efb28f94fdd4b2ec520817b32a20",
+      "bytes": 2888372,
+      "url_count": 67650,
+      "host_count": 389454,
+      "address_count": 1301,
+      "path": "list-1791764337.bin"
+    },
+    "deltas.bin": {
+      "sha256": "709565d4fcac5d5a087b1c5e9528faad0131f5f0be13d420b852e8afaf12be52",
+      "bytes": 17850,
+      "steps": 24,
+      "oldest_from": 1791677989,
+      "fresh_chain": false,
+      "path": "deltas-1791764337.bin"
+    },
+    "psl.txt.gz": {
+      "sha256": "2327788b3b84f3cc3e17e68d4d7456a7c534567e1b00a892ae62e181300af69f",
+      "bytes": 43681,
+      "lines": 10336,
+      "path": "psl-1791764337.txt.gz"
+    },
+    "shorteners.txt.gz": {
+      "sha256": "da90e80e7fd37759bda8af9998824e17ad33bdf737107b128b1da04e53b7e90d",
+      "bytes": 6344,
+      "lines": 1463,
+      "path": "shorteners-1791764337.txt.gz"
+    },
+    "confusables.txt.gz": {
+      "sha256": "c95853e4ba4891aa14241ccc78d44c481ddd7388f2163ad9f2ab41ba9088d2e4",
+      "bytes": 5341,
+      "lines": 1814,
+      "path": "confusables-1791764337.txt.gz"
+    },
+    "brands.txt.gz": {
+      "sha256": "b11b5385890be908ca019a2e6e8b4125b968123086598ce726ece44c2c88eb35",
+      "bytes": 54247,
+      "lines": 10000,
+      "path": "brands-1791764337.txt.gz"
+    },
+    "aviation.txt.gz": {
+      "sha256": "e46b674384cb1f40afabe4fb9f5b73a9002a07b139fe8fb5799b6321ddf4bbc4",
+      "bytes": 102050,
+      "lines": 10189,
+      "path": "aviation-1791764337.txt.gz"
+    },
+    "postal.txt.gz": {
+      "sha256": "efa97975ebea225e544b3d56f902384c13adba44b31cdf99e9c298dd4139ccc4",
+      "bytes": 2463778,
+      "lines": 241742,
+      "path": "postal-1791764337.txt.gz"
+    },
+    "aic.txt.gz": {
+      "sha256": "311abdce9fe11f38e595676a29206abda9c8aa9e236c546158c00c13252498ce",
+      "bytes": 1610510,
+      "lines": 160107,
+      "path": "aic-1791764337.txt.gz"
+    },
+    "rdap-dns.json.gz": {
+      "sha256": "fb51523970cb574b162bd3949195d5578c467d2d3c33e51b53109fb5bffff99d",
+      "bytes": 7647,
+      "services": 592,
+      "path": "rdap-dns-1791764337.json.gz"
+    },
+    "bdpm.txt.gz": {
+      "sha256": "95bb302f5786cc5f49aa0a51e9b1884c48e8decf5f35d943cb078af71ed88db3",
+      "bytes": 302806,
+      "lines": 20907,
+      "updated": "2026-09-29",
+      "licence": "Licence Ouverte / Open Licence (Etalab)",
+      "credit": "Source: Base de donn\u00e9es publique des m\u00e9dicaments (ANSM), https://base-donnees-publique.medicaments.gouv.fr, BDPM update of 2026-09-29, Licence Ouverte / Open Licence (Etalab)",
+      "path": "bdpm-1791764337.txt.gz"
+    },
+    "banks-de.txt.gz": {
+      "sha256": "de68f7508e08cd4da6f422940724cb13a112e6777b3e05c6367264c6ad2fae77",
+      "bytes": 32093,
+      "lines": 3432,
+      "valid_from": "2026-09-07",
+      "valid_to": "2026-12-06",
+      "notice": "Quelle: Deutsche Bundesbank",
+      "path": "banks-de-1791764337.txt.gz"
+    },
+    "host-kinds.txt.gz": {
+      "sha256": "5a7848eab925fa96e61463b40f8d50241d3d7cc9a0ab6ac2d959bb46d96a27a6",
+      "bytes": 2899,
+      "lines": 556,
+      "path": "host-kinds-1791764337.txt.gz"
+    },
+    "common-labels.txt.gz": {
+      "sha256": "d5d248604fd958229df3cce7b0f78d7c07d0d9a4fbd2495bee27f68afb8e485c",
+      "bytes": 664,
+      "lines": 194,
+      "path": "common-labels-1791764337.txt.gz"
+    },
+    "affiliates.txt.gz": {
+      "sha256": "1640de58dbb8f0821b577f8a376a06d13d725c0ee63502cf74e9f5facd6765ef",
+      "bytes": 416,
+      "lines": 63,
+      "path": "affiliates-1791764337.txt.gz"
+    }
+  },
+  "sources": {
+    "upstream_allow": {
+      "fetched": true,
+      "count": 14524
+    },
+    "phishtank": {
+      "fetched": true,
+      "count": 67962,
+      "seconds": 0,
+      "content_sha": "d724d14b22514ff5fd75fb64cc5300b09923cad664d55a9a802843f0250b77f9",
+      "last_changed": "2026-10-11T07:18:45+00:00",
+      "count_delta": 0
+    },
+    "certpl": {
+      "fetched": true,
+      "count": 126022,
+      "seconds": 0,
+      "stamps": 126022,
+      "content_sha": "4c893fa10b361da25c8e439d1904ac957a71a9687764dcb5a6aaa289b45e1525",
+      "last_changed": "2026-10-12T00:18:57+00:00",
+      "count_delta": -2
+    },
+    "phishdestroy": {
+      "fetched": true,
+      "count": 218413,
+      "seconds": 0,
+      "content_sha": "7e41252270864270731b7ca932a374ee8f6ad36268d2e3c1fc8183eeae643c7f",
+      "last_changed": "2026-10-10T01:18:32+00:00",
+      "count_delta": 0
+    },
+    "polkadot": {
+      "fetched": true,
+      "count": 54827,
+      "seconds": 0,
+      "content_sha": "529746d249db383245d205e8c3494674d7edee70065fce15fb636acc359664c9",
+      "last_changed": "2026-09-13T00:21:34+00:00",
+      "count_delta": 0
+    },
+    "polkadot_addresses": {
+      "fetched": true,
+      "count": 279,
+      "seconds": 0,
+      "content_sha": "3d0853cc5320f96834dd021fb1c40ee0975a31c38d22b9e9f8de6327d3a35c63",
+      "last_changed": "2026-09-13T00:21:34+00:00",
+      "count_delta": 0
+    },
+    "ofac_addresses": {
+      "fetched": true,
+      "count": 1066,
+      "seconds": 6,
+      "via": "International Trade Administration, Consolidated Screening List (consolidated.json)",
+      "source_last_updated": "2026-10-09T14:01:32+00:00",
+      "content_sha": "3487a681c8f51a32241d8e6ca1f99bee91dcb7b371168f5f4ad3da45e0b5a2a4",
+      "last_changed": "2026-10-12T00:18:57+00:00",
+      "count_delta": -235
+    },
+    "discovery": {
+      "fetched": true,
+      "count": 228,
+      "seconds": 0,
+      "content_sha": "ac04bc85c21f4e7308d2eb4905e02447a01c4cd9b24d121a4dff77fa9794e783",
+      "last_changed": "2026-10-11T21:18:00+00:00",
+      "count_delta": 0
+    },
+    "own": {
+      "fetched": true,
+      "count": 2,
+      "seconds": 0,
+      "by_kind": {
+        "urls": 0,
+        "hosts": 2,
+        "addresses": 0
+      },
+      "expired": [],
+      "inert": [],
+      "content_sha": "a7ae2c79698cd6c4d87d1dc4b76472a153e7f94f18413d3c573938a1d51d1d26",
+      "last_changed": "2026-10-05T12:19:50+00:00",
+      "count_delta": 0
+    },
+    "allow": {
+      "fetched": true,
+      "count": 3,
+      "seconds": 0,
+      "suppressed": 3,
+      "expired": [],
+      "inert": [],
+      "upstream_hosts": 14521,
+      "upstream_suppressed": 40
+    },
+    "psl": {
+      "fetched": true,
+      "count": 10336,
+      "seconds": 0,
+      "reused_from": 1791721137
+    },
+    "shorteners": {
+      "fetched": true,
+      "count": 1463,
+      "seconds": 0,
+      "qr_redirectors": 9,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "confusables": {
+      "fetched": true,
+      "count": 1814,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "brands": {
+      "fetched": true,
+      "count": 10000,
+      "seconds": 0,
+      "removed_listed": [],
+      "removed_listed_count": 0,
+      "waiting": 0,
+      "admitted": 10000,
+      "seeded": true,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "aviation": {
+      "fetched": true,
+      "count": 10189,
+      "seconds": 0,
+      "crosscheck": {
+        "source": "OurAirports (public domain)",
+        "compared": 8243,
+        "agree": 6326,
+        "differ": 1917,
+        "differ_sample": [
+          {
+            "code": "AAH",
+            "wikidata": "Aachen-Merzbr\u00fcck airfield",
+            "ourairports": "Aachen-Merzbr\u00fcck Airport"
+          },
+          {
+            "code": "AAM",
+            "wikidata": "Mala Mala Airport",
+            "ourairports": "Malamala Airport"
+          },
+          {
+            "code": "AAQ",
+            "wikidata": "Anapa Airport",
+            "ourairports": "Anapa Vityazevo Airport"
+          },
+          {
+            "code": "AAT",
+            "wikidata": "Altay Airport",
+            "ourairports": "Altay Xuedu Airport"
+          },
+          {
+            "code": "AAX",
+            "wikidata": "Arax\u00e1 Airport",
+            "ourairports": "Romeu Zema Airport"
+          },
+          {
+            "code": "AAY",
+            "wikidata": "Al Ghaydah Airport",
+            "ourairports": "Al Ghaydah International Airport"
+          },
+          {
+            "code": "AAZ",
+            "wikidata": "Quetzaltenango Airport",
+            "ourairports": "Quezaltenango Airport"
+          },
+          {
+            "code": "ABD",
+            "wikidata": "Abadan International Airport",
+            "ourairports": "Abadan Ayatollah Jami International Airport"
+          },
+          {
+            "code": "ABF",
+            "wikidata": "Abaiang Atoll Airport",
+            "ourairports": "Abaiang Airport"
+          },
+          {
+            "code": "ABG",
+            "wikidata": "Abingdon Airport",
+            "ourairports": "Abingdon Downs Airport"
+          }
+        ],
+        "ours_not_there": 815,
+        "scheduled_not_here_count": 37,
+        "filled_from_ourairports": [
+          {
+            "code": "AHA",
+            "name": "Maa Mahamaya Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "BYW",
+            "name": "Blakely Island Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "CJZ",
+            "name": "Pedro Vieira Moreira Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "CSW",
+            "name": "Cabo San Lucas International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "DJT",
+            "name": "President Donald J. Trump International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "DTR",
+            "name": "Decatur Shores Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "FMT",
+            "name": "Faresmaathoda Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "FSH",
+            "name": "Syekh Hamzah Fansyuri Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "GGJ",
+            "name": "Gua\u00edra Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "GOY",
+            "name": "Tura Mountain Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "HBE",
+            "name": "Alexandria International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "HDO",
+            "name": "Hindon Airport / Hindon Air Force Station",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "HWR",
+            "name": "Halwara International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "IKG",
+            "name": "Karakol International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "JLG",
+            "name": "Jalgaon Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "JPE",
+            "name": "Nagib Demachki Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "JSK",
+            "name": "Jask Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "KCY",
+            "name": "Krasnoyarsk Cheremshanka Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "KXB",
+            "name": "Sangia Nibandera Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "KXO",
+            "name": "Kisoro Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "LSG",
+            "name": "Leshan Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "MHM",
+            "name": "Manaoba Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "MZS",
+            "name": "Moradabad Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "NZG",
+            "name": "Nizhneangarsk International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "PYT",
+            "name": "Pedro Rabelo de Souza Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "SET",
+            "name": "Santa Magalh\u00e3es Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "SSW",
+            "name": "Stuart Island Airpark",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "SWL",
+            "name": "San Vicente Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "TBM",
+            "name": "Tumbang Samba Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "TLY",
+            "name": "Plastun Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "TVT",
+            "name": "Tashkent-Khumo International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "UKE",
+            "name": "Utkela Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "VAQ",
+            "name": "Vanavara Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "VEO",
+            "name": "Severo-Yeniseysk Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "VER",
+            "name": "General Heriberto Jara International Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "VSV",
+            "name": "Shravasti Airport",
+            "source": "OurAirports (public domain)"
+          },
+          {
+            "code": "WDN",
+            "name": "Waldron Airstrip",
+            "source": "OurAirports (public domain)"
+          }
+        ]
+      },
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "postal": {
+      "fetched": true,
+      "count": 241742,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "aic": {
+      "fetched": true,
+      "count": 160107,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "rdap-dns": {
+      "fetched": true,
+      "count": 592,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "bdpm": {
+      "fetched": true,
+      "count": 20907,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "banks-de": {
+      "fetched": true,
+      "count": 3432,
+      "seconds": 0,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "host-kinds": {
+      "fetched": true,
+      "count": 556,
+      "seconds": 0,
+      "curated": true,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "common-labels": {
+      "fetched": true,
+      "count": 194,
+      "seconds": 0,
+      "curated": true,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "affiliates": {
+      "fetched": true,
+      "count": 63,
+      "seconds": 0,
+      "curated": true,
+      "content_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed": "2026-10-12T00:18:57+00:00"
+    },
+    "popular_listings": {
+      "suppressed": [
+        "line.me",
+        "dribbble.com",
+        "www.newscientist.com",
+        "www.avito.ru",
+        "libero.it",
+        "taplink.cc",
+        "teletype.in",
+        "sendspace.com",
+        "www.westernunion.com",
+        "mez.ink",
+        "www.seznam.cz",
+        "www.telegram.com",
+        "cloudflare.vc",
+        "qrco.de",
+        "tiscali.it",
+        "mail.com",
+        "accounts.simplilearn.com",
+        "mail.kakao.com",
+        "https://www.netlify.app/",
+        "http://www.duckdns.org/",
+        "https://kakaku.com/"
+      ],
+      "count": 21,
+      "note": "whole-host listings of the 10,000 most-linked domains are treated as source mistakes; page listings under them stay"
+    },
+    "latency": {
+      "phishtank": {
+        "n": 0,
+        "median_min": null,
+        "p90_min": null
+      },
+      "certpl": {
+        "n": 0,
+        "median_min": null,
+        "p90_min": null
+      }
+    },
+    "expiry": {
+      "expired": {},
+      "entries": {
+        "url": 67650,
+        "host": 389454,
+        "address": 1301
+      },
+      "new": {},
+      "ledger_state": "unverifiable: nothing expired this build; the ledger starts over from today's sources"
+    },
+    "health": [
+      "polkadot: unchanged since 2026-09-13 (28 days)",
+      "polkadot_addresses: unchanged since 2026-09-13 (28 days)"
+    ]
+  },
+  "psl_fetched_at": 1791721137,
+  "build_mode": "full",
+  "popular": {
+    "sha256": "599d2d9fb22ffa9025f8944f30143bb9ef852959970b5ea16500fe8972484e93",
+    "bytes": 147610,
+    "day": 2476,
+    "note": "popular.bin rides the release for the next build only: the consecutive-day streak per top-10,000 domain; not part of the bundle"
+  },
+  "latency_log": {
+    "sha256": "31b6a28c8862ab795ecfc63abad41415c863e3d9151fcb577dca2ce32940a811",
+    "bytes": 99793,
+    "lines": 537,
+    "note": "latency.jsonl rides the release for the weekly numbers: per build, the minutes from each source's own stamp to the build for the entries new to the ledger; not part of the bundle"
+  },
+  "ledger": {
+    "sha256": "6cfd405e5ab8259ca6c04b6490b8a0df3e2df87ce18efda5243943c607d70e90",
+    "bytes": 5638790,
+    "entries": {
+      "url": 67650,
+      "host": 389454,
+      "address": 1301
+    },
+    "note": "ledger.bin rides the release for the next build only: first seen, last seen and last confirmed per prefix; not part of the bundle a phone downloads"
+  },
+  "addresses_from": null,
+  "normalization": {
+    "url": "v4: tabs and line breaks dropped; scheme and host lowercased; user info and fragment dropped; default port dropped; host escapes decoded, dots collapsed and trimmed, a non-ASCII host converted to its IDNA ASCII form; numeric IPv4 hosts dotted-decimal; dot segments resolved, duplicate slashes collapsed; unreserved escapes decoded, others uppercased; controls, spaces, non-ASCII, and unsafe characters percent-encoded; query kept in order",
+    "host": "lowercased, no trailing dot; the phone checks the host and each parent domain down to the registrable domain",
+    "address": "v3: trimmed; an EVM address written 0x or 0X lowercased; a bc1, tb1 or ltc1 bech32 address in upper case lowercased; a CashAddr address in either case, with or without its prefix, reduced to its lowercase payload; mixed case and Base58 addresses as written"
+  },
+  "key_id": "be71e1af814df00b",
+  "signature": "+GPS2BkxEzXgAB3uPFelMt1xJGEI1iBfWMmZkAyjMExh8saKags3wybwHk+0So+oEnKF9CbCrcv8lqXQR4IYBA==",
+  "public_key": "420841f1b1b749e31e37193bde83199f6f03a0c3c3062660976e55679ebc562c"
+}

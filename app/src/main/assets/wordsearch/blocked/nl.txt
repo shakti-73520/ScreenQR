@@ -1,0 +1,46 @@
+# rot13, a blocked word's cells space-separated; built by tools/wordsearch/banks.py from the books' blocked-nl.txt
+A N M V
+A N M V F
+A R H X
+A R H X R A
+A R T R E
+C B E A B
+C B R C
+C B R C R A
+C V F
+C V F F R A
+C V X
+C V X X R A
+E H X X R A
+F G E B A G
+F P U V W G
+F R X F
+F Y R G
+G E H G
+G L S H F
+G R E V A T
+G V R G
+G V R G R A
+J V W S
+M R V X R A
+O V G P U
+Q B B Q
+Q B B Q R A
+Q E H T F
+Q R O V R Y
+R V X R Y
+S Y V X X R E
+U B R E
+U B R E R A
+U V G Y R E
+V Q V B B G
+X B A G
+X H G
+X H G G R A
+X N A X R E
+X Y B B G M N X
+X Y B G R
+Y H Y
+Y H Y Y R A
+Z B A T B B Y
+Z B B E Q

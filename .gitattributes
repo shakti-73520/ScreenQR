@@ -1,0 +1,36 @@
+# Line endings the tools and the source-text pins depend on (2026-09-09, block-75): the merged main's checkout
+# with core.autocrlf true wrote a Kotlin source with CRLF and the pins that read it raw failed; a shell script
+# handed to bash with CRLF fails outright.
+*.kt text eol=lf
+*.kts text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+# B123 (Security's Linux rebuild proof of v1.0.1, 2026-09-19, record 8.216): the APK's text entries (assets/pool/*.json, NOTICES.txt,
+# attributions.json, the lookup and safety tables, res/raw/*.pem) came out of a Windows checkout with CRLF, one carriage return per line
+# more than the Linux build's, so a Windows build never matched byte for byte; these kinds are written LF on every platform, and
+# TextAssetLineEndingsTest reads the checkout for a stray carriage return before a build. The fixture sets below stay unconverted.
+*.json text eol=lf
+*.txt text eol=lf
+*.pem text eol=lf
+# The lookup copies fixture set and the vector file are read byte for byte (LookupCanonicalTest pins the file by its hash;
+# the shards and tables by the hashes in the signed manifest), so nothing under it is converted (2026-09-11).
+app/src/test/resources/lookup/** -text
+# The USDA fixture's rows go to the bundle builder as the extractor wrote them, and every built line is checked against
+# them byte for byte (tools/lookup/make_products_usda_fixture.py, row 224, 2026-09-20): a carriage return would ride
+# into the last column, so the file is never converted.
+tools/lookup/products_usda_fixture_rows.tsv -text
+# the test frames under app/src/test/resources/scan are 8-bit PGM pixels: never a line-ending conversion (2026-09-13)
+*.pgm binary
+# The walk's hot-file fixture (tools/screens/fixtures/hot-fixture, 2026-09-15) is pushed to the phone as built: its manifests are
+# parsed and their signature checked over the canonical form, but the shards, the tables and the hot files are verified by the
+# hashes the manifest names, so nothing under it is converted either.
+tools/screens/fixtures/hot-fixture/** -text
+# The app's text assets are read byte for byte only by the build hosts that compare them (row 193, 2026-09-19): the sixteen JSON files and
+# NOTICES.txt under assets came out CRLF from every Windows checkout (core.autocrlf) and LF from a Linux one, so the two APKs differed on them and
+# on nothing the app reads; the blobs are LF, and eol=lf keeps every checkout the same.
+app/src/main/assets/**/*.json text eol=lf
+app/src/main/assets/**/*.txt text eol=lf
+# The WMI table (row 290, 2026-09-22: assets/vin/wmi.tsv, 14,472 lines) is the same kind: the merged v1.03 checkout showed it modified with
+# no byte changed (core.autocrlf true wanting CRLF where the blob and the build hold LF); the build's rewrite and the pre-build test already
+# cover tsv, so this line only keeps every checkout equal to the blob.
+app/src/main/assets/**/*.tsv text eol=lf

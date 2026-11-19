@@ -1,0 +1,5 @@
+# The three routes the support page carries, and nothing else: https only, no crypto address, no route the site does
+# not link (the operator's word, 2026-09-10). F-Droid's lint checks the metadata's donate address against this file.
+github: verdettoqr
+liberapay: Verdetto
+custom: https://verdettoqr.com/support-the-work

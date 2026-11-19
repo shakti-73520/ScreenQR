@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- B71 (2026-09-16): a weighted 0dp on a LinearLayout's cross axis never draws (the card widget's code image). Fatal, so the
+     release build's lintVital reads every layout for the class. -->
+<lint>
+    <issue id="Suspicious0dp" severity="fatal" />
+</lint>

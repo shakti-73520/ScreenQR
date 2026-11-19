@@ -1,0 +1,14 @@
+# gitleaks ignore list for verdetto-android (the security review of 2026-09-09, finding B10; CI job "secrets").
+# .gitleaks.toml carries the allowlisted patterns; this file carries the fingerprints of findings already in the
+# history, one per line, each with its reason beside it. A fingerprint is commit:file:rule:line, so an entry names
+# one finding in one commit and silences nothing else.
+#
+# 8461ad8e16d44c4ce65453dff038d28b4b473506, on the branch security/seal-payments (pull request #29): the migration
+# test app/src/test/java/app/scanner/data/db/HistoryMigration45Test.kt seeded one row's sealed-record column with
+# the opaque stand-in 'AQEMcmVjb3Jk' beside the word secret (line 163), and the generic-api-key rule read that
+# base64 blob as a key. It is a seeded column value in a test over a real SQLite, decoded by nothing; d4552c2 on
+# that branch changed it to the plain word 'sealed-record'. The added line of 8461ad8e stays in that branch's
+# history, and the secrets job scans every ref's full history (gitleaks git with no log options is git log --all,
+# over a checkout that fetched every ref), so that one historical finding has to be named here on main for every
+# pull request's secrets job to pass. The fingerprint below pins that one finding and nothing else.
+8461ad8e16d44c4ce65453dff038d28b4b473506:app/src/test/java/app/scanner/data/db/HistoryMigration45Test.kt:generic-api-key:163

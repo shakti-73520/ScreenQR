@@ -1,0 +1,347 @@
+A N M V F G
+A N M V F G V
+A N M V F G V V
+A N M V F G V Y B E
+A N M V Ș G
+A N M V Ș G V
+A N M V Ș G V Y B E
+A N V O N
+A N V O V
+A N V O V V
+A R A B E B P V G
+A R A B E B P V G H Y B E
+A R A B E B P V G H Y R
+A R A B E B P V G N
+A R A B E B P V G V
+A R A B E B P V G V V
+A R A B E B P V G Ă
+A R A B E B P V Ț V Y B E
+A R F V Z G V G
+A R F V Z G V G H
+A R F V Z G V G N
+A R T E B G R V
+A R T E B G V Y B E
+A R Z R E A V P
+A R Z R E A V P H Y
+A R Z R E A V P H Y R
+A R Z R E A V P V
+A R Z R E A V P V V
+A R Z R E A V P V Y B E
+B Z B E
+B Z B E Â G
+B Z B N E Ă
+C B C B
+C B C B A N E
+C B C B A N E H Y R
+C B E A B
+C E B F G
+C E B F G H
+C E B F G H Y
+C E B F G H Y R
+C E B F G V G H N G N
+C E B F G V G H N G R Y R
+C E B F G V G H N G Ă
+C E B F G V G H V R M R
+C E B F G V N
+C E B F G V R
+C E B F G V Y B E
+C E B N F G B
+C E B N F G N
+C E B N F G R Y B E
+C E B N F G Ă
+C E B N Ș G B
+C E B N Ș G N
+C E B Ş G V
+C E B Ş G V V
+C E B Ș G V
+C E B Ș G V N
+C E B Ș G V V
+C E B Ș G V Y B E
+C H Y N
+C H Y N E V R
+C H Y V
+C H Y V P Ă
+C H Y Ă
+C H Y Ă E V R
+C H Y Ă E Ă H
+C H Ț H Y V P Ă
+C H Ț Ă
+C R A V F
+C R Q B S V Y
+C V F G B Y
+C V M Q H Y V P R
+C V M Q N
+C V M Q R
+C V M Q R Y R
+C V M Q Ă
+C Y N
+C Â E G
+C Â E G Â V
+C Â E Ț
+C Â E Ț Â V
+E N U N G
+E N U N G H E V
+E N U N G H Y
+F B Q B Z V R
+F N A V
+F P H V C N G
+F P H V C N Ț V
+F P H V C V P V
+F P H Y Ă
+F R S H G R
+F S N E P
+F S N E P H E V
+F S N E P H E V Y R
+F S Â E P
+F S Â E P H E V
+F S Â E P H E V Y R
+F Y B O B M
+F Â A V
+F Â A V V
+G N E S N
+G N Z C R A V N
+G N Z C R A V R
+G Â E S R
+G Â E S R Y R
+G Â E S Ă
+G Â Z C R A V N
+G Â Z C R A V R
+G Â Z C R A V V
+G Â Z C R A V V Y R
+G Â Z C V G
+G Â Z C V G B
+G Â Z C V G H Y R
+G Â Z C V G R Y B E
+G Â Z C V G V
+G Â Z C V G Ă
+G Â Z C V Ţ V
+G Â Z C V Ț V Y B E
+G Î E S N
+G Î E S Ă
+H E Ă F P
+H E Ă Ș G R
+H P V F
+H P V T N Ș
+I E N W R N Y N
+I E N W R Y V
+I E Ă W R N Y N
+I E Ă W R Y V
+I N T V A
+I N T V A H E V
+M R I M R P
+N F N F V A
+N F N F V A N G
+N S H E V F N G
+N S H E V F V G
+N S H E V F V G H Y R
+N S H E V F V G Ă
+N V H E R N
+N V H E R N Y Ă
+O B N E S N
+O B N E S R
+O B N E S R Y R
+O B N E S Ă
+O H P V Y R
+O H Y N A T V H
+O H Y N A T V H Y R
+O H Y N A T V V
+O N F G N E M V
+O N F G N E M V V
+O Y R F G R Z N G
+O Y R F G R Z N G Ă
+O Ă T N Z V N Ș
+O Ă T N Z V N Ș V
+O Ă T N Ț V N V
+O Ă Ș V
+O Ă Ș V A N
+O Ă Ș V A V
+O Ă Ș V A Ă
+O Ă Ș V G
+P B N V R
+P B P N V A Ă
+P B V
+P E R G V A
+P E R G V A B
+P E R G V A H
+P E R G V A H Y R
+P E R G V A N
+P E R G V A R Y B E
+P E R G V A V
+P E R G V A V V
+P E R G V A V Y B E
+P H E
+P H E H
+P H E H E V
+P H E H Y
+P H E H Y H V
+P H E H Y R
+P H E I N
+P H E I R
+P H E I R G Ă
+P H E I R Y R
+P H E I V F G V A N
+P H E I V Ş G V A Ă
+P H E I V Ș G V A Ă
+P H E I Ă
+P N G R N
+P N P
+P N P N
+P N P N A N E
+P N P N G
+P N P N G H
+P N P N G H Y
+P N P N G V
+P N P N G V V
+P N P N P V B F
+P N Q N I E H
+P Î P N G
+P Î P N G H Y
+P Ă P
+P Ă P N G
+P Ă P Â Ț H
+P Ă P Ă A N E
+P Ă P Ă A N E V
+P Ă P Ă P V B F
+P Ă Ţ R
+P Ă Ţ R N
+P Ă Ț R Y R Y R
+Q B O V G B N P B
+Q B O V G B N P R Y B E
+Q B O V G B N P R Y R
+Q B O V G B P
+Q B O V G B P H Y
+Q B O V G B P H Y R
+Q B O V G B P V
+Q B O V G B P V V
+Q B O V G B P V Y B E
+Q E B T
+Q E B T H E V
+Q E B T N G
+Q E N P H
+Q E N P H Y H V
+Q E N P R
+R W N P H Y N
+R W N P H Y N E R
+R W N P H Y N E R N
+R W N P H Y N E V V
+R W N P H Y R M
+R W N P H Y R M R
+R W N P H Y R M V
+S E N V R E
+S E N V R E H Y
+S E N V R E R
+S E N V R E V
+S E N V R E V V
+S H A Q H Y
+S H A Q H Y R Ț
+S H A Q H Y R Ț H Y
+S H G
+S H G H G
+S H G H G H Y
+S H G H G N
+S H G H G R
+S H G H G R A
+S H G H G V
+S H G H G Ă
+S H G H V
+S H G H Z N Ș
+S H G H Ț
+S H G H Ț V
+S H G N
+S H G N I N
+S H G N V
+S H G R
+S H G R B
+S H G R B N Ş
+S H G R E R
+S H G R G R N E
+S H G R N
+S H G R N V
+S H G R Z N Ș
+S N Y H F
+S R F R
+S R F Ă
+S R Y N Ț V R
+T H E N Z Ă G V V
+T Â G H Y Z Ă G V V
+T Â G H Z Ă G V V
+T Ă B M
+T Ă B M N E
+T Ă B N M R Y B E
+T Ă B N M R Y R
+T Ă B N M Ă
+U V G Y R E
+V N Q H Y
+V Q V B G
+V Q V B G H Y
+V Q V B G H Y R
+V Q V B G V
+V Q V B G V V
+V Q V B G V Y B E
+V Q V B N G B
+V Q V B N G N
+V Q V B N G R
+V Q V B N G R Y B E
+V Q V B N G Ă
+V Q V B N Ț B
+V Q V B N Ț R
+V Q V B N Ț R Y B E
+V Q V B N Ț Ă
+V Q V B Ț
+V Q V B Ț H Y R
+V Q V B Ț V
+V Q V B Ț V Y B E
+V Z O R P V Y
+V Z O R P V Y N
+V Z O R P V Y V
+V Z O R P V Y V Y B E
+V Z O R P V Y Ă
+W N I E N
+W N I E R Y B E
+W N I E R Y R
+W N I E Ã
+W N I E Ă
+W R T H Y N
+W R T H Y R
+W V T B Q V N
+W V T B Q V R
+W V T B Q V V
+W V T B Q V Y B E
+X B N R
+X B N V R
+X B V
+X X A E
+X X A N E V
+X X G
+X X Ț V
+Y N A N V O N
+Z B E G
+Z B E Ț V
+Z B E Ț V V Z Ă G V
+Z B E Ț V V Z Ă G V V
+Z B E Ț V Z Ă G V
+Z B E Ț V Z Ă G V V
+Z B N E G R
+Z B N E G Ă
+Z H V
+Z H V F G
+Z H V F G B
+Z H V F G H Y R
+Z H V F G R Y B E
+Z H V N A
+Z H V R
+Z H V Ș G V Y B E
+Z N F G H E O N
+Z N F G H E O N E R
+Z N F G H E O N E R N
+Z N F G H E O N G V
+Z N F G H E O R M
+Z N F G H E O R M R
+Z N F G H E O R M V
+Z N F G H E O R N M Ă
+Z N F G H E O Ă E V V
+Z N F G H E O Ă Z
+Î A S H A Q
+Ț V N Ș G E N T R
+Ț Â Ț R
+Ț Â Ț R Y R

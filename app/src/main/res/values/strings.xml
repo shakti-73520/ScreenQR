@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrismQR</string>
+    <string name="tile_screen_qr_label">Screen QR</string>
+    <string name="tile_screen_qr_subtitle">Scan current screen</string>
+    <string name="tile_scan_label">Scan Code</string>
+    <string name="shortcut_scan_short">Scan</string>
+    <string name="shortcut_scan_long">Optical Code Scanner</string>
+    <string name="shortcut_create_short">Create</string>
+    <string name="shortcut_create_long">Create QR &amp; Barcodes</string>
+    <string name="shortcut_vault_short">Vault</string>
+    <string name="shortcut_vault_long">Scan Vault &amp; History</string>
+    <string name="screen_capture_channel_name">Screen QR Capture</string>
+    <string name="screen_capture_channel_desc">Transient screen capture used only to locate QR and barcodes on screen.</string>
+    <string name="screen_capture_notif_title">Scanning Screen for Codes</string>
+    <string name="screen_capture_notif_body">Analyzing display locally on-device…</string>
+    <string name="support_no_browser_link_copied">No browser found — support link copied to clipboard.</string>
+</resources>

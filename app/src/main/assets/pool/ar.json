@@ -1,0 +1,1394 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "مجاني لأن الناس يتناقلونه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: المشاركة تُبقيه مجانيًا. مرّره."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة حظك تقول: صديق سيشكرك على هذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "تعرف من لا يزال يضغط على الإعلان؟ أرسله له."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "الكلمة المنقولة هي قسم التسويق كله."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "مشاركة واحدة هي الحملة الإعلانية كلها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة الحظ تقول: مرّره."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "أحد في مجموعتك يحتاج هذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "أخبر شخصًا واحدًا. هكذا يبقى مجانيًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "هو مجاني لهم أيضًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: المشاركة مجانية. والتطبيق كذلك. طريف."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Verdetto بلا ميزانية إعلانات. لديه أنت."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة حظك تقول: أداة جيدة ستنتقل إلى يد جديدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "ضغطتان، ويرى صديقك الرابط قبل أن يُفتح."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "أرسله لمن يمسح قائمة الطعام عن المائدة كلها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "التطبيق الذي وجده الناس عبر الناس."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: المشاركة خمس ثوانٍ. الإعلان بلا نهاية."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة حظك تقول: رابط سيبقى مغلقًا بفضلك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "يدفع تكلفة Verdetto الأشخاص الذين يستخدمونه."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: لا إعلانات لأن الناس يساهمون."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة حظك تقول: لا إعلانات، بفضل أناس مثلك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "إن كان هذا يساوي قهوة، فهذه هي اللحظة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "نموذج العمل هو أن يقول الناس شكرًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة الحظ تقول: ساهم، وارتح."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "لا مستثمرين. داعمون."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "يبقيه مجانيًا أناس يحبونه."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "هنا حيث لا يقاطعك أي إعلان."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "تريد شارة؟ ساهم مرة واحدة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "ضغطة واحدة، مرة واحدة، أي مبلغ. هذا كل شيء."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: الداعمون يُبعدون الإعلانات. تنضم؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "غياب الإعلانات خيار. الداعمون يجعلونه ممكنًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "ورقة حظك تقول: لا لوحة إعلانية، بل شارة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "شكر لا إعلانات. هذه هي الخطة كلها."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "ساهم مرة واحدة، ويبقى مجانيًا للجميع."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "مجاني للجميع لأن بعضهم يساهم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: أحدهم ساهم، فصار مجانيًا لك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: نقرة واحدة، ويرى صديق الرابط أولًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "بصوت خافت: التطبيق لا يكبر إلا بالحكاية."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "بيننا: معظم من يعرفه عرفه من شخص."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "برجك اليوم: أداة جيدة تنتقل إلى يد جديدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "تقول الأوراق: شخص قريب منك يحتاج هذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "هذا شريط تنبيه. لا إعلان فيه. انشر الخبر."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "تطبيق يسأل بأدب مرة في الشهر. لا أكثر."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "لا زر هنا إعلان. هذا هو الخبر."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "ميزانية الإعلانات: صفر. قسم التسويق: أنت."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "يقرأ الرموز. يعرض الروابط. لا يخبر أحدًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "بهدوء: مشاركة واحدة تعوّض حملة كاملة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "من في بيتك يفتح كل رابط؟ أرسله إليه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "من سأل مؤخرًا: هل هذا حقيقي؟ دوره الآن."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "تعرف من يمسح قائمة الطعام للجميع؟"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "من ستوفّر عليه إعلانًا؟ ذاك بالضبط."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "من في العائلة ما زال يضغط الزر المزيّف؟"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "يبقى مجانيًا لأن الناس يوصون به."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "توصية واحدة هي قسم التسويق كله."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "رابط يُرى مبكرًا نصف احتيال أقل."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "لم يرَ أحد هذا التطبيق في إعلان. أبدًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "ما لا يكلّف شيئًا لا ينتقل إلا شفهيًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "في مكان ما تنهّد مدير إعلانات. شارك التنهيدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "محتال ما أصابته قشعريرة. زِدها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "شريط التنبيه يلوّح. أشرطة التنبيه لا تلوّح عادةً."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "زر مزيّف يبكي بهدوء. شارك ذلك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "همسة: لا إعلانات لأن أناسًا يدفعون ثمن قهوة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "بصوت خافت: المبلغ لا يهم. النقرة هي المهمة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "بيننا: هذا الهدوء بلا إعلانات دفعه أحد."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "برجك اليوم: مساهمة صغيرة، مساء خفيف."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "تقول الأوراق: نقرة واحدة، والرأس مرتاح."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "تقول النجوم: اليوم يضيف أحد شيئًا. أنت؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "نقرة، مبلغ، مرة واحدة أو شهريًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "هنا يزعجك إعلان عادةً."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "نموذج العمل: الناس يدفعون قهوة. انتهى."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "الدعم زر، لا برنامج نقاط."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "المنزلق من قهوة إلى عشاء. أنت تختار."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "هل ساوى قهوة؟ المنزلق هناك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "بقيت لديك فكّة؟ التطوير يشعر بها."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "كم يساوي فاصل إعلاني لم يأتِ أبدًا؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "نقرة واحدة، مرة واحدة. ربما اليوم؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "أي مبلغ يبدو مناسبًا؟ هو بالضبط."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "يدفع ثمنه من يستعملونه. لا أحد غيرهم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "مساهمة واحدة تُبعد الإعلانات عن الجميع."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "لا مستثمر ولا شبكة إعلانات. منزلق فقط."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "كل قهوة تصير كودًا وهدوءًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "من يساهم يدفع كي لا يضطر غيره."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "الكود جائع. أطعمه."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "في مكان ما يبكي مدير إعلانات. دعه يبكي."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "المنزلق يحلم بقهوة. أيقظه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "أبعدتني، فذهبت في نزهة. كانت لطيفة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "سحبة واحدة، شهر واحد. أعدت الزر معي."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "كانت السحبة سريعة، واحترمتها. محاولة أخرى."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "سحبتني منذ شهر. عاد الزر رغم ذلك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "السحبة قائمة. لم آتِ لأجادل فيها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "أُبعدت مرة، وعدت بأدب. الزر نفسه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "دوّنت بلا ضغينة: سحبة واحدة. وها أنا مجددًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "الجيران لم يسمعوا بهذا بعد."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "توصية صديق تغلب الإعلان. اسأل أي إعلان."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "مرّره. سيتظاهر التطبيق بأنه لم ينتبه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "خدمة صغيرة: اذكره لشخص واحد. ثم استرح."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "المسح صار رياضة جماعية. جنّد أحدًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "شخص تحبه يمسح ملصقات على الأعمدة. تدخّل."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "هواتف أصدقائك تستطيع أفضل من هذا. هذا كل شيء."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "صديق ما زال يفتح روابط QR على العمياء. أنقذه."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "غبت قليلًا. الزر بقي في مكانه."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "منذ شهر اختفيت تحت إبهامك. أنا بخير."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "شهر على الرف. نفضت الغبار عن الزر."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "السحبة الأخيرة لم تترك كدمة. قهوة؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "آخر مرة كان لديك إبهام وخطة. مفهوم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "سُحبت مرة. عدت في أي شهر كان هذا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "سألت، وسحبت. كلا الأمرين معقول."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "كانت السحبة حادة. عدت، حادًا كذلك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "الدفع لتطبيق مجاني. حدثت أمور أغرب."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "التطبيق يريد زيادة في الراتب. رئيسه أنت."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "ادفع ما تشاء، مرة واحدة. التطبيق لا يجيد المساومة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "ساهم أو تجاوز. الخياران جيدان، بصدق."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "تطبيقات أخرى تضع إعلانًا هنا. هذا يضع سؤالًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "التطبيق يعمل بحسن النية ومطوّر عنيد."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "يعرف التطبيق أن هذا محرج. ويسأل رغم ذلك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "ذوقك في الماسحات جيد. شارك الذوق."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "اخترت ما بلا إعلانات. قل لأحد لماذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "تقرأ الرابط أولًا. نادر. انشره."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "أنت سبب وجود التوصيات."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "ذوق مثل ذوقك يستحق أن ينتشر."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "تقرأ الخط الصغير. الآن احكِ أنت."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "أصدقاؤك كسبوا بوجودك. أثبت ذلك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "اختيار ذكي. الأذكياء يمرّرونه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "في المجموعة من ينتظر هذا تحديدًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "من في المجموعة ما زال يضغط الإعلان؟ أرسله له."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "مجموعة العائلة لديها أسئلة. هذا جواب."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "في المجموعة، فيرى الجميع الروابط أولًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "أحد في الدردشة يسأل: أهذا حقيقي؟ أجب هكذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "المجموعة تتبادل الميمات. تبادل شيئًا مفيدًا مرة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "عم، خالة، جار: أحدهم يضغط الإعلان."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "أرسله إلى المجموعة التي تسأل دائمًا عن كلمة الواي فاي."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "نقرتان، ويرى صديق الروابط أولًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "للصديق الذي يسأل دائمًا عن الواي فاي."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "على المائدة من يمسح قائمة الطعام. أعطه التطبيق."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "ملصق، رمز، صديق متردد. أرسله."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "عدّاد مواقف عليه ملصق. أحد يحتاج هذا الآن."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "رمز في المقهى. ليَرَ التالي الرابط أولًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "إشعار الطرد على الباب فيه رمز. احكِ."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "صديقان، رمز واحد. أحدهما يشارك التطبيق."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "منشور فيه رمز، صديق فضولي. أرسله."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "ذوقك في الماسحات جيد. للذوق أن يساهم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "أمثالك يبقونه مجانيًا. كن منهم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "اخترت ما بلا إعلانات. ادفع ثمن الاختيار."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "تتجاوز الإعلانات بأسلوب. الأسلوب يستطيع العطاء."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "تقرأ الخط الصغير. أنت من النوع الذي يعطي."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "اختيار ذكي. الأذكياء يدفعون قهوة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "تشمّ الاحتيال. قهوة لهذا الأنف."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "ذوقك يُبعد الإعلانات. واصل."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "الداعمون يحصلون على شارة. صغيرة. ممتازة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "الشارة صغيرة جدًا. الهدوء كبير جدًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "شارة لا يراها غيرك. تقريبًا وشم."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "بنقرة واحدة يبقى مجانيًا للجميع."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "أي مبلغ. مرة واحدة أو كل شهر. هذا كل شيء."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "نقرة واحدة، وانتهى الأمر."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "ساهم مرة. ثم صمت. تقريبًا دائمًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "نقرة، مبلغ، والإيقاع لك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "الزر اسمه دعم. نقرة واحدة تكفي."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "نقرة واحدة. لا حساب، لا خدعة، لا إلحاح."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "نقرة واحدة تبقيه مجانيًا للتالي."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "نقرة، مبلغ، تحية صامتة في الكود."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "شارة صغيرة تنتظر مساهمة واحدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "زيارة أخرى بلا ضغينة. مجرد شريط تنبيه."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "في مكان ما يتنكّر إعلان في زيّ «افتح». أرسل هذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "عند غيرنا، الزر الكبير إعلان. احكِ ذلك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "كلمة «امسح» كثيرًا ما تكون على إعلان. ليس هنا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "هنا لا يؤدي أي زر إلى إعلان. قل ذلك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "أحد يضغط الزر المزيّف الآن. ساعده."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "الزر المزيّف يعيش على العجلة. هذا التطبيق لا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "إن فتح الزر إعلانًا، فهو إعلان. قلها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "زر المسح ينبغي أن يمسح. جنون، صحيح؟"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "أرسله لمن يمسح قائمة الطعام للمائدة كلها."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "عشاء طيب؟ مرّر التطبيق كما مرّرت الملح."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "كانت القائمة رمزًا. المائدة تحتاج هذا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "من يمسح أثناء العشاء يستحق التطبيق الصحيح."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "بين المقبّلات والحلوى: مشاركة واحدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "الفاتورة تأتي برمز. لتعلم المائدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "نأكل معًا، نمسح معًا. مرّره."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "مائدة واحدة، قائمة واحدة، رمز واحد. مشاركة واحدة."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "أرسله لمن يمسح أولًا."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "شاركه ما دمت تذكر."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "مرّره. مرة واحدة تكفي."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "أرِه لمن بجانبك."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "أخبر شخصًا واحدًا. وانتهيت."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "أعد إرساله ثم تابع المسح بهدوء."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "أخبر الصديق صاحب ألف رمز QR."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "اضغط مشاركة. الباقي نقرة أخرى."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "اجعل يوم أحدهم أجمل: أرسل التطبيق."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "إن كان يساوي قهوة، فهذه هي اللحظة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "عشاء جيد، تطبيق مجاني. قهوة بالمقابل؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "النادل أخذ نصيبه. التطبيق ما زال ينتظر."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "الحلوى تكلّف أكثر مما طلبه التطبيق يومًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "القائمة مُسحت، الفاتورة دُفعت. قهوة؟"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "إسبريسو بعد الأكل. وقهوة للتطبيق."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "المائدة دفعت. التطبيق يسأل بصوت خافت."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "قهوة للتطبيق: أرخص طبق."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "هذه الرسالة لا تنتهي صلاحيتها. فيها زر فقط."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "منزلق واحد، سؤال واحد، صفر إعلانات. انتهى."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "التطبيق يطلب مرة. ثم يعود إلى العمل."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "المجاني نموذج عمل أيضًا. بمساعدة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "السعر غير محدد. إنه في يدك."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "لا لافتة، لا نافذة منبثقة. جملة واحدة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "التطوير يعمل بالقهوة. حرفيًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "التوسّل كله بطول جملة واحدة."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "اضغط دعم. اختر مبلغًا. انتهى."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "اشترِ قهوة لمن يطوّر التطبيق."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "ساهم مرة ثم انسَ الأمر."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "حرّك المنزلق إلى حيث يبدو مناسبًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "ادفع مرة. بعدها لا يسأل أحد تقريبًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "اختر أصغر مبلغ. يُحسب أيضًا."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "نقرة واحدة، ثم عُد إلى المسح."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "أبعد الإعلانات. نقرة واحدة تكفي."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "اترك قهوة. التطبيق يتذكّر."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "همسة: هذا يساعد من يمسحه بعدك. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "همسة: بلاغات مثل بلاغك هي ما يبني القائمة."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "همسة: فكّرت في أناس لا تعرفهم. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "ورقة: هاتف شخص غريب يشكرك على هذا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "ورقة تقول: بلاغ واحد، هواتف كثيرة. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "ورقة: أناس مثلك هم سبب عمل القائمة."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "من يُبقي قائمة مشتركة حيّة؟ أناس مثلك. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "من فكّر في الشخص التالي؟ أنت. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "اقبل الشكر. إنه من كل من يمسح."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "معظم الناس يمرّون. أنت فكّرت في غيرك. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "لا شارات هنا. مجرد أناس يساعدون أناسًا. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "ملصق، هاتف، نقرة. القائمة كلها تشكرك."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "شخص لن تلتقيه أبدًا سعيد بما فعلت. شكرًا."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "شكرًا. هكذا تبقى القائمة للجميع."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "أحد الروابط التي أبلغت عنها أصبح الآن في قائمة التحذير. شكرًا."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "نجح بلاغك. ذلك الرابط ينبّه الآن كل من يمسحه."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "الرابط الذي أبلغت عنه مدرج. الشخص التالي الذي يمسحه يرى التحذير."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "أُدرج بفضلك. رابط أبلغت عنه يحذّر الآن الناس الذين يمسحونه."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "دخل بلاغك القائمة. كل مسح لذلك الرابط يُظهر تحذيرًا الآن."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "لأنك أبلغت عنه، صار ذلك الرابط في قائمة التحذير الآن. شكرًا."
+}
+]

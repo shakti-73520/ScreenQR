@@ -1,0 +1,424 @@
+NOTICES
+
+Verdetto's own code is free software under the GNU General Public License, version 3 or later (the LICENSE
+file in the repository, https://gitlab.com/verdettoqr/verdetto-android, and at
+https://verdettoqr.com/app-license); its scanning engine is a separate work
+under the Apache License 2.0 (its NOTICE is at the end of this text). The app ships the work of others under
+their own terms. This text carries the license texts and notices those terms ask for; the attributions dialog
+under About lists every source with a link.
+
+========================================================================
+Apache License 2.0
+Applies to: the scanning engine (verdetto-core), ZXing core, zxing-cpp, AndroidX, Kotlin, the Rust jni crate
+(dual with MIT), the polkadot-js
+phishing list, the Droid Sans Mono font, libphonenumber with its geocoding and carrier data
+(com.googlecode.libphonenumber:libphonenumber, :geocoder, :carrier) - Copyright (C) The Libphonenumber Authors.
+========================================================================
+
+Apache License
+                           Version 2.0, January 2004
+                        https://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+========================================================================
+SIL Open Font License 1.1
+Applies to: the Roboto fonts (Regular, Medium and Bold; Latin subsets of Roboto 3.015, app/src/main/res/font).
+Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)
+========================================================================
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+========================================================================
+MIT License
+Applies to: the PhishDestroy destroylist, the PhishIndex blocklist, the Rust jni crate (dual with Apache 2.0),
+the safety list's pipeline (gitlab.com/verdettoqr/link-safety-list), the BIP-39 English word list
+(github.com/bitcoin/bips, bip-0039/english.txt, unchanged; BIP-39 by Marek Palatinus, Pavol Rusnak, Aaron Voisine
+and Sean Bowe).
+========================================================================
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+========================================================================
+Mozilla Public License 2.0
+Applies to: the Public Suffix List (https://publicsuffix.org), redistributed in the safety bundle unchanged.
+The license text: https://www.mozilla.org/MPL/2.0/
+========================================================================
+
+========================================================================
+Unicode License
+Applies to: the Unicode confusables table (https://www.unicode.org/Public/security/latest/confusables.txt),
+Copyright (c) Unicode, Inc. The license text: https://www.unicode.org/license.txt
+========================================================================
+
+========================================================================
+Creative Commons notices
+========================================================================
+CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): the url-shorteners list by PeterDaveHello
+(https://github.com/PeterDaveHello/url-shorteners) and the safety list's affiliate redirect hosts, redistributed
+under the same license with this attribution.
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): GeoNames postal codes (https://www.geonames.org);
+the Italian Medicines Agency's Anagrafica Farmaci AIFA (https://www.aifa.gov.it/liste-dei-farmaci), a reformatted extract;
+EUDAMED, the European database on medical devices (European Commission, https://ec.europa.eu/tools/eudamed), reused under CC BY 4.0, shown as given.
+CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/): the Majestic Million (https://majestic.com).
+CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/): the CERT Polska warning list, Wikidata,
+EdDSA (net.i2p.crypto:eddsa).
+
+========================================================================
+Licence Ouverte / Open Licence 1.0 (Etalab)
+Applies to: the Base de données publique des médicaments (ANSM, https://base-donnees-publique.medicaments.gouv.fr),
+the French medicine codes table in the safety bundle; the source, the BDPM update date and the licence are shown with
+the data as the bundle manifest carries them. The licence text: https://www.etalab.gouv.fr/licence-ouverte-open-licence;
+the BDPM's own copy of it: https://base-donnees-publique.medicaments.gouv.fr/docs/telechargement/licence_bdpm.pdf
+========================================================================
+
+========================================================================
+Open Database License (ODbL) 1.0
+========================================================================
+Applies to: Open Food Facts, Open Products Facts, Open Beauty Facts and Open Pet Food Facts. The product copy on
+lookup.verdettoqr.com is a Derivative Database made from their exports: the copy and its changes are offered there,
+the public build script as the alteration method, the ODbL and the Database Contents License beside it. Until the
+copies are switched on the databases are asked online. Either way the answer is shown with its source, the ODbL
+named, and a link to the product page.
+The app's diet and allergen word tables (assets/lookup/allergens.json and diet.json) are keyed by Open Food Facts
+taxonomy ids, with words in part from its taxonomies, modified and extended by Verdetto: a Derivative Database, offered
+whole in the app under the same license.
+https://opendatacommons.org/licenses/odbl/1-0/
+
+========================================================================
+Other terms
+========================================================================
+[artifact com.android.billingclient: the play build's library; the app's reader drops this block on the foss build]
+Google Play Billing: the Android Software Development Kit License.
+The app's licence carries an additional permission under GPL section 7 for the Google Play Billing library (see LICENSE).
+[end artifact]
+PhishTank: PhishTank's terms (hashed prefixes only). OFAC SDN data: a work of the United States government, public
+domain. openFDA (the NDC directory, the device identifiers): US public domain, CC0; FDA does not endorse this app.
+NHTSA (vPIC, recalls, ratings, and the owner-complaint and defect-investigation files behind the vehicle safety copy on
+lookup.verdettoqr.com) and EPA fuel economy data (fueleconomy.gov): US public domain for the agencies' own data and
+records; the complaint descriptions shown are as NHTSA published them; NHTSA and EPA do not endorse this app.
+Open Library: the Internet Archive asserts no rights over the data; the book copy on lookup.verdettoqr.com is made
+from its monthly dumps and credited "From Open Library" with the copy's date; until the copies are switched on it is
+asked online.
+Deutsche Nationalbibliothek: the DNB book copy on lookup.verdettoqr.com is made from the library's complete title data in
+MARC 21, released under CC0 1.0, and credited "From Deutsche Nationalbibliothek" with the copy's date. Bibliothèque nationale
+de France: the BnF book copy is made from data.bnf.fr's RDF dumps under the Licence Ouverte / Open Licence (Etalab), whose
+condition is the source and the date: credited "From Bibliothèque nationale de France" with the copy's date, the copy's own
+notices naming the dumps and their dates. This mention confers no official character and suggests no endorsement.
+MusicBrainz: the music copy on lookup.verdettoqr.com is made from MusicBrainz's core data alone (CC0 1.0: the release,
+artist credit and release country tables of the full export, never the derived data under CC BY-NC-SA) and credited
+"From MusicBrainz" with the copy's date. The online lookup, while it runs, under MetaBrainz's API terms (an app with
+a revenue stream counts as commercial); MetaBrainz confirmed by email on 2026-09-07 that use is free in the
+pre-revenue phase with rate limiting (one request a second, with the app's identifying User-Agent) and attribution
+(the answer names MusicBrainz as its source; the website credits MusicBrainz), and asked to be contacted when the
+app's income reaches about $500 a year.
+Quelle: Deutsche Bundesbank - the German bank names behind sort codes come from the Bundesbank's non-binding bank sort code file, under
+its website terms (https://www.bundesbank.de), fields verbatim, the source line shown with the data.
+CPSC recall data: a work of the United States government, public domain (17 U.S.C. 105); CPSC does not endorse this app.
+DailyMed and RxNav data: works of the United States government, public domain. This product uses publicly available data from the U.S. National Library of Medicine (NLM), National Institutes of Health, Department of Health and Human Services; NLM is not responsible for the product and does not endorse or recommend this or any other product.
+AEMPS CIMA: Spanish public-sector information reused under Ley 37/2007, with the agency's source line and the retrieval date shown with the data; AEMPS sponsors nothing here.
+Crossref metadata: made available for reuse without restriction (Crossref's membership terms), asked with the app's contact address.
+
+========================================================================
+NOTICE of the scanning engine (verdetto-core), verbatim
+========================================================================
+
+Verdetto scanning engine (verdetto-core)
+Copyright 2026 Verdetto
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this work except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0 and in the LICENSE file.
+
+Third-party software carried in this repository:
+
+  zxing-cpp, version 3.1.1 (https://github.com/zxing-cpp/zxing-cpp)
+  Copyright 2016 Nu-book Inc., 2019 Axel Waggershauser, and the ZXing authors
+  Licensed under the Apache License, Version 2.0; its LICENSE and README travel
+  under third_party/zxing-cpp, and only its reader core is carried.
+
+Data used by the tests:
+
+  fixtures/muenster_0282925037198.*: intensity profiles derived from one crop
+  of an image in the Muenster BarcodeDB (University of Muenster), a public
+  research corpus; the raw frames are not carried, and the corpus terms are
+  checked and noted before any frame is published.

@@ -1,0 +1,20 @@
+# Dependabot: version updates for the Android build (Gradle catalog) and the workflow actions, weekly, grouped so
+# one pull request carries a week's minor and patch bumps. Security updates arrive on their own regardless.
+version: 2
+updates:
+  - package-ecosystem: gradle
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      androidx-and-kotlin:
+        patterns: ["androidx.*", "org.jetbrains.kotlin*", "com.google.devtools.ksp*"]
+        update-types: ["minor", "patch"]
+    commit-message:
+      prefix: "deps"
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: "actions"

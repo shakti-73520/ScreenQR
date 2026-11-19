@@ -1,0 +1,14 @@
+# gitleaks configuration for verdetto-android (the security review of 2026-09-09, finding B10; CI job "secrets").
+# The default rules stay; the entries below are the reviewed false positives, each scoped to one file and one
+# pattern so nothing else is silenced. A new entry needs the reason beside it.
+title = "verdetto-android"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "The everything-walk tool's synthetic Wi-Fi credential: a made-up password inside the test QR the walk scans, kept in the script to prove the app seals it on screen (the 'leaked' and 'Show' checks); not a credential of anyone's."
+condition = "AND"
+paths = ['''^tools/screens/everything_walk\.py$''']
+regexes = ['''WIFI_PASSWORD\s*=\s*"''']
+regexTarget = "line"

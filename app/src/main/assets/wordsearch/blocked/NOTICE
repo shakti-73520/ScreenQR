@@ -1,0 +1,29 @@
+Word-search blocked lists (assets/wordsearch/blocked/<lang>.txt)
+
+Adapted by Verdetto from the sources below, with Verdetto's own additions:
+merged per language; non-letters (spaces, hyphens, punctuation, digits)
+removed; letters upper-cased; accents dropped for pt, id and ms, and the
+Greek tonos dropped; Arabic-script vowel marks and tatweel, and Hebrew
+points, removed; Russian Ё written Е; hiragana written as katakana and
+small kana full-size; split into the game's cells; entries with any cell
+outside the language's script dropped; entries under 3 cells dropped
+(2 for zh and ko); duplicates removed; ROT13 applied to ASCII letters.
+Decoding is permitted; decoder: any ROT13 tool (Python's codecs "rot13")
+or the app's word-search reader.
+
+Each file: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/. Provided as is, without warranty.
+
+Sources:
+- Toxicity-200, NLLB Team (Meta), CC BY-SA 4.0,
+  https://github.com/facebookresearch/flores/tree/main/toxicity
+- List of Dirty, Naughty, Obscene, and Otherwise Bad Words, (c) 2012-2020 Shutterstock, Inc., CC BY 4.0
+  (https://creativecommons.org/licenses/by/4.0/),
+  https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+- turkce-kufur-karaliste, ooguz, CC BY-SA 4.0, https://github.com/ooguz/turkce-kufur-karaliste
+- Persian-Swear-Words, amirshnll, Apache-2.0, modified by Verdetto as above,
+  https://github.com/amirshnll/Persian-Swear-Words
+- inappropriate-words-ja, (c) 2020 K Hashimoto, MIT, https://github.com/MosasoM/inappropriate-words-ja
+- korean-bad-words, (c) 2019 Doublem.org, MIT, https://github.com/doublems/korean-bad-words
+- vietnamese-offensive-words, (c) 2023 Blue Eyes, MIT, https://github.com/blue-eyes-vn/vietnamese-offensive-words
+
+The MIT notices in full are in LICENSE-MIT; the Apache-2.0 text is in LICENSE-Apache-2.0.

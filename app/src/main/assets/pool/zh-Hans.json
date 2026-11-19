@@ -1,0 +1,1394 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "免费，因为大家口口相传。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：分享让它保持免费。传下去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：有朋友会为此感谢你。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "还有人在误点广告？把这个发给他。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "口口相传就是整个市场部。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "一次分享，就是整场广告投放。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "签文只有三个字：传下去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "群里有人正需要这个。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "告诉一个人。它就这样保持免费。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "对他们也一样免费。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：分享免费，应用也免费。有意思。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Verdetto 没有广告预算。它有你。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：一件好工具将易主。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "点两下，朋友也能先看到链接再打开。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "发给饭桌上替大家扫菜单的那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "一款人们通过人们找到的应用。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：分享五秒钟，广告没完没了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：有个链接会因你而不被打开。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Verdetto 由使用它的人们出资支持。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：没有广告，因为有人凑份子。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：没有广告，多亏了像你这样的人。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "如果这值一杯咖啡，此刻正好。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "商业模式就是人们说谢谢。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：凑个份，心里踏实。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "没有投资人。只有支持者。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "喜欢它的人让它保持免费。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "此处本该有广告打扰你。没有。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "想要徽章？凑一次份就行。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "一次点击，一次付款，随你多少。就这么简单。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：支持者把广告挡在外面。一起？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "没有广告是一种选择。支持者让它成真。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "签文：没有广告牌，但有徽章。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "靠谢谢，不靠广告。这就是全部计划。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "凑一次份，它就继续对所有人免费。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "对所有人免费，因为有些人凑份子。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：有人凑了份，所以对你免费。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：点一下，就有人先看到链接。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "小声讲：这应用只靠口口相传长大。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "咱们私下说：多数人是从别人那儿知道的。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "星座运势：今天有件好工具要换主人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "牌面说：你身边有人正需要它。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "这是提示条。没广告。传出去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "一个每月只客气问一次的应用。就这样。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "这里没有哪个按钮是广告。这就是消息。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "广告预算：零。市场部：你。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "读码，显示链接，不告诉任何人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "冷静地说，一次分享顶一场宣传。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "家里谁什么链接都点？发给那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "上次谁问“这是真的吗”？轮到那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "认识替全桌扫菜单的人吗？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "你想替谁省掉一条广告？就是那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "家里谁还在点假按钮？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "它一直免费，因为有人推荐。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "一次推荐，就是整个市场部。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "先看到的链接，诈骗就少一半。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "没人在广告里见过这个应用。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "免费的东西，只靠口碑走。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "某处广告总监叹气。把叹气分享出去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "有个骗子打了个寒颤。让他更冷。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "提示条在挥手。提示条从不挥手。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "一个假按钮在小声哭。分享这个。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "悄悄说：没有广告，因为有人请了咖啡。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "小声讲：金额随意，点一下才算。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "咱们私下说：这份清静有人付过了。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "星座运势：小小一份，夜里轻松。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "牌面说：点一下，脑子清净。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "星星说：今天有人添一把。你？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "一次点按，一次或每月，随意。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "这里本来是广告打扰你的地方。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "商业模式：有人请咖啡。完。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "支持是一个按钮，不是积分计划。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "滑块从一杯咖啡到一顿晚饭。你定。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "值一杯咖啡吗？滑块就在那儿。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "多出一点零钱？开发者会注意到。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "一段从没来过的广告，值多少？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "点一下，就一次。今天怎样？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "哪个数目合适？就是那个。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "买单的是用它的人。没有别人。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "添一把，广告就离所有人远一点。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "没有投资人，没有广告网。只有一个滑块。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "每杯咖啡都变成代码和清静。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "有人添一把，别人就不必。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "代码饿了。喂它一口。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "某处广告总监在哭。让他哭。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "滑块梦见一杯咖啡。叫醒它。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "你把我划走了，我去散了个步。挺好。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "一划，一个月。我把按钮带回来了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "那一划很快，我尊重。再试一次。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "一个月前你划走了它。按钮还是回来了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "那一划算数。我不是来争的。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "被挥走过一次，礼貌地回来。还是这个按钮。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "记下了，不介意：划过一次。我又来了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "邻居还没听说这件事。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "朋友的推荐胜过广告。问问广告就知道。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "传出去。应用会假装没注意。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "小忙：跟一个人提一句。然后歇着。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "扫码现在是团体项目。拉一个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "你爱的人在扫电线杆上的贴纸。拦一下。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "朋友们的手机可以更好。就这句。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "有朋友还在盲开二维码链接。救一下。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "我走开了一阵。按钮没动。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "一个月前我在你拇指下消失了。没事。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "在架子上放了一个月。把按钮擦了擦。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "上次那一划没留下淤青。来杯咖啡？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "上次：你有拇指，也有打算。明白。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "被划走过一次。不知哪个月，回来了。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "我问了，你划了。两边都合理。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "那一划很干脆。我回来了，也干脆。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "给免费应用付钱。更怪的事也有过。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "应用想加薪。它的老板是你。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "随意付，付一次。应用不会讨价。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "添一把或跳过。两样都真的可以。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "别的应用在这儿放广告。这个放一个问题。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "靠善意和一个固执的开发者运转。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "应用知道这很尴尬。还是问了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你挑扫码器的品味不错。分享这品味。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你选了没广告的那个。告诉别人为什么。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你先看链接再点。少见。传开去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "推荐这件事，因你而存在。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你这样的品味该传开。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你读小字。现在换你讲。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "你的朋友有你真好。证明一下。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "聪明的选择。聪明人会传下去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "群里有人正等着这个。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "群里谁还在点广告？发给那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "家庭群有疑问。这是一个答案。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "丢进群里，大家都先看到链接。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "群里有人问“这是真的吗”？用这个回答。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "群里都在发表情包。发一次有用的。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "叔叔、阿姨、邻居：总有一个在点广告。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "发到那个总在问 Wi-Fi 密码的群。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "点两下，朋友就先看到链接。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "给那个总问 Wi-Fi 的朋友。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "桌上有人在扫菜单。把应用给他。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "一张海报，一个码，一个犹豫的朋友。发吧。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "停车机上贴着码。有人现在就需要它。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "咖啡馆里的码。让下一个人先看到。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "门上的取件单有个码。讲给人听。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "两个朋友，一个码。一个分享应用。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "带码的传单，好奇的朋友。发过去。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "挑扫码器的品味不错。品味可以出一份。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "像你这样的人让它免费。成为其中一个。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "你选了没广告的那个。为选择付一次。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "你跳广告很有风格。风格可以给。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "你读小字。你是会给的那种人。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "聪明的选择。聪明人请一杯咖啡。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "你闻得出诈骗。请这鼻子喝杯咖啡。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "你的品味让广告走远。继续。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "想要徽章？添一次。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "支持者有徽章。小小的。很好。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "徽章很小。清静很大。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "只有你看得见的徽章。差不多是纹身。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一下，它对所有人继续免费。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "任意金额，一次或每月。就这样。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一下，事情就办完了。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "添一次。然后安静。几乎总是。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一次，付一笔，节奏你定。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "按钮叫“支持”。点一下就够。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一下。没账号，没催促，没套路。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一下，让下一个人也免费。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "点一下，付一笔，代码里一声轻轻的问候。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "又来了，不记仇。只是条提示。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "某处有条广告装成了“打开”。把这个发出去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "别处那个大按钮是广告。说出去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "“扫码”两个字常写在广告上。这里不是。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "这里没有按钮通向广告。讲讲这个。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "有人正在点那个假按钮。帮一下。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "假按钮靠着急活着。这个应用不。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "按钮打开的是广告，它就是广告。说出来。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "扫码按钮该扫码。疯了吧？"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "发给替全桌扫菜单的那个人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "晚饭不错？像传盐一样把应用传过去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "菜单是个码。这桌人需要它。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "吃饭时扫码的人，配得上对的应用。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "前菜和甜点之间：分享一次。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "账单靠码来。让这桌人知道。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "一起吃饭，一起扫码。传下去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "一张桌，一份菜单，一个码。一次分享。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "发给最先扫码的人。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "趁还记得，分享出去。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "传下去。一次就够。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "给旁边的人看看。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "跟一个人说。然后就完了。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "转发，然后安心接着扫。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "告诉那个有一千个二维码的朋友。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "点分享。剩下的只是再点一下。"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "让某人今天开心：把应用发过去。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "要是值一杯咖啡，此刻正好。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "饭不错，应用免费。回一杯咖啡？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "服务员的那份给了。应用还在等。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "一份甜点比应用开过口的都贵。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "菜单扫了，账付了。来杯咖啡？"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "饭后一杯浓缩。也给应用一杯咖啡。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "这桌已经付了。应用小声问一句。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "给应用的一杯咖啡：最便宜的一道菜。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "这条消息没有截止日。只有一个按钮。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "一个滑块，一个问题，零广告。完。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "应用只问一次。然后回去干活。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "免费也是一种商业模式。靠帮忙。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "价格没定。在你手里。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "没横幅，没弹窗。只有一句话。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "开发靠咖啡运转。字面意思。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "整段恳求，就一句话长。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "点支持。选个金额。完事。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "请做这个应用的人喝杯咖啡。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "添一次，然后忘掉它。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "把滑块拉到你觉得合适的地方。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "付一次。之后几乎没人再问。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "选最小的金额。一样算。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "点一下，回去接着扫。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "让广告远一点。点一下就够。"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "留下一杯咖啡。应用记得。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "悄悄说：这会帮到下一个扫它的人。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "悄悄说：名单就是由这样的报告建起来的。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "悄悄说：你想到了陌生人。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "签文：一位陌生人的手机在向你道谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "签文说：一份报告，许多部手机。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "签文：名单靠你这样的人才运转。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "谁在支撑一份共享名单？像你这样的人。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "谁想到了下一个人？你。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "收下这份感谢，它来自每一个扫码的人。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "多数人划过去了。你想到了别人。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "没有徽章。只有人帮人。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "贴纸、手机、一次点按。整份名单向你道谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "某个你永远不会遇见的人为此高兴。谢谢。"
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "谢谢。名单就是这样属于每一个人的。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "你报告的一个链接，已经在警告名单上了。谢谢。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "你的报告通过了。那个链接现在会向扫描它的人发出警告。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "你报告的链接已列入名单。下一个扫描它的人会看到警告。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "上名单了，多亏有你。你报告的链接，现在会提醒每个扫描它的人。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "你的报告进了名单。现在扫描那个链接，会显示警告。"
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "因为你报告了它，那个链接现已列入警告名单。谢谢你。"
+}
+]

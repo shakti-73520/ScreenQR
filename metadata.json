@@ -1,0 +1,8 @@
+{
+  "name": "PrismQR",
+  "description": "Ultra-premium optical QR & barcode intelligence scanner with instant Screen QR Quick Settings capture, multi-code selection, offline safety checks, and Code Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

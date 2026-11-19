@@ -1,0 +1,1388 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "Gratis karena orang-orang meneruskannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Berbagi bikin tetap gratis. Teruskan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Ramalanmu: seorang teman akan berterima kasih."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Ada yang masih menekan iklan? Kirimi dia ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Mulut ke mulut adalah seluruh tim pemasaran."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "Sekali berbagi adalah seluruh kampanye iklan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Kue keberuntungan bilang: teruskan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "Ada yang butuh ini di grupmu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "Beri tahu satu orang. Begitu ia tetap gratis."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "Buat mereka juga gratis."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Berbagi gratis. Aplikasinya juga. Lucu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Verdetto tak punya anggaran iklan. Punya kamu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Ramalanmu: alat bagus akan berpindah tangan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dua ketuk, teman pun melihat tautan lebih dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Kirim ke yang memindai menu untuk semeja."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Aplikasi yang ditemukan orang lewat orang."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Berbagi lima detik. Iklan selamanya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Ramalanmu: satu tautan tak dibuka, berkat kamu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Dibiayai oleh orang-orang yang memakainya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Tanpa iklan karena orang-orang urun."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Ramalanmu: tanpa iklan, berkat orang sepertimu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "Kalau tadi sepadan secangkir kopi, ini saatnya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Model bisnisnya: orang berterima kasih."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Kue keberuntungan bilang: urun, lalu lega."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Tanpa investor. Ada pendukung."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Tetap gratis berkat orang yang menyukainya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "Di sinilah tak ada iklan yang menyela."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Mau lencana? Urun sekali atau tiap bulan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Sekali ketuk, berapa pun, kapan pun. Selesai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Pendukung menjauhkan iklan. Ikut?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Tanpa iklan itu pilihan, dijaga para pendukung."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Ramalanmu: bukan papan iklan, tapi lencana."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Terima kasih, bukan iklan. Itu rencananya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "Urun sekali, dan tetap gratis untuk semua."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Gratis untuk semua karena sebagian urun."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Seseorang urun, jadi ini gratis untukmu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Satu ketuk, dan teman melihat tautannya dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Pelan-pelan saja: aplikasi ini tumbuh lewat cerita."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Di antara kita: hampir semua tahu dari seseorang."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Horoskop: hari ini alat yang bagus berpindah tangan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Kartu-kartu bilang: seseorang di dekatmu butuh ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Ini snackbar. Tak ada iklan di dalamnya. Sebarkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Aplikasi yang bertanya sopan sebulan sekali. Itu saja."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Tak satu pun tombol di sini iklan. Itu beritanya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Anggaran iklan: nol. Bagian pemasaran: kamu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Membaca kode. Menunjukkan tautan. Tak lapor siapa pun."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Dilihat dingin saja: satu bagikan mengganti kampanye."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Siapa di rumah yang membuka semua tautan? Kirimkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Siapa yang tadi tanya, ini asli? Gilirannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Kenal orang yang memindai menu untuk semeja?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Siapa yang ingin kamu bebaskan dari iklan? Orang itu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Siapa di keluarga yang masih menekan tombol palsu?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Tetap gratis karena orang-orang merekomendasikannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Satu rekomendasi adalah seluruh tim pemasaran."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Tautan yang dilihat dulu: separuh penipuan gagal."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Tak ada yang pernah melihat aplikasi ini di iklan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Yang gratis hanya menyebar dari mulut ke mulut."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Di suatu tempat bos iklan mendesah. Bagikan desahnya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Seorang penipu merasa merinding. Buat lebih dingin."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Snackbar ini melambai. Snackbar tak pernah melambai."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Tombol palsu menangis pelan. Bagikan itu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Tanpa iklan karena ada yang traktir kopi."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Pelan saja: jumlah bebas. Ketukannya penting."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Di antara kita: tenang tanpa iklan ini dibayar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Horoskop: urun kecil, malam yang ringan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Kartu bilang: satu ketuk, lalu kepala tenang."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Bintang bilang: hari ini seseorang urun. Kamu?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Satu ketuk, sekali atau bulanan. Tanpa paksaan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Di sinilah biasanya sebuah iklan mengganggu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Model bisnisnya: orang traktir kopi. Selesai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Dukung itu sebuah tombol, bukan program poin."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Penggesernya dari kopi sampai makan malam."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Sepadan dengan kopi? Penggesernya di sana."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Ada kembalian lebih? Pengembangnya tahu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Berapa harga jeda iklan yang tak pernah datang?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Satu ketuk, kapan pun. Hari ini, mungkin?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Jumlah mana yang terasa pas? Tepat yang itu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Dibayar oleh yang memakainya. Bukan yang lain."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Satu urunan menjauhkan iklan dari semua orang."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Tak ada investor, tak ada jaringan iklan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Setiap kopi jadi kode dan ketenangan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Yang urun membayar agar orang lain tak perlu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Kodenya lapar. Beri dia makan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Di suatu tempat bos iklan menangis. Biarkan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Penggesernya bermimpi kopi. Bangunkan dia."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Kamu mengusirku, jadi aku jalan-jalan. Menyenangkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Satu usapan, satu bulan. Kubawa tombolnya kembali."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Usapannya cepat, dan kuhormati. Coba lagi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Kamu mengusap sebulan lalu. Tombolnya tetap kembali."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Usapan itu sah. Aku bukan datang untuk berdebat."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Ditepis sekali, kembali sopan. Tombol yang sama."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Dicatat tanpa sakit hati: satu usapan. Aku kembali."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Tetangga belum dengar soal ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Rekomendasi mengalahkan iklan. Tanya iklan mana pun."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Teruskan. Aplikasinya akan pura-pura tidak sadar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Bantuan kecil: sebut ke satu orang. Lalu istirahat."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Memindai kini olahraga tim. Rekrut seseorang."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Orang tersayang memindai stiker di tiang. Bertindak."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Ponsel teman-temanmu bisa lebih baik. Itu saja."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Teman masih membuka tautan QR tanpa lihat. Tolong dia."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Aku pergi sebentar. Tombolnya tetap di tempat."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Sebulan lalu lenyap di bawah jempolmu. Santai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Sebulan di rak. Tombolnya kulap dari debu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Usapan terakhir tak meninggalkan memar. Kopi?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Terakhir: satu jempol, satu rencana. Paham."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Diusap sekali. Kembali di bulan entah keberapa."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Aku bertanya, kamu mengusap. Dua-duanya wajar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Usapannya tegas. Aku kembali, juga tegas."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Membayar aplikasi gratis. Ada yang lebih aneh."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Aplikasinya ingin naik gaji. Atasannya kamu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Bayar sesukamu, sekali. Ia payah menawar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Urun atau lewati. Dua-duanya boleh, sungguh."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Yang lain taruh iklan di sini. Ini, pertanyaan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Bahan bakar: niat baik dan pengembang bandel."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Aplikasinya tahu ini canggung. Tetap dilakukan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Seleramu soal pemindai bagus. Bagikan seleranya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu memilih yang tanpa iklan. Ceritakan alasannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu membaca tautan dulu. Langka. Sebarkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamulah alasan rekomendasi itu ada."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Selera sepertimu layak menyebar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu membaca huruf kecil. Sekarang ceritakan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Teman-temanmu beruntung punya kamu. Buktikan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Pilihan cerdas. Orang cerdas meneruskannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Di grup, ada yang menunggu tepat ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Siapa di grup yang masih menekan iklan? Kirimkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Grup keluarga punya pertanyaan. Ini jawabannya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Lempar ke grup, dan semua melihat tautan lebih dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Ada yang tanya di chat, ini asli? Jawab dengan ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Grup berbagi meme. Sekali-sekali bagikan yang berguna."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Paman, bibi, tetangga: salah satunya menekan iklan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Kirim ke grup yang selalu minta sandi Wi-Fi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dua ketukan, dan teman melihat tautan lebih dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Untuk teman yang selalu menanyakan Wi-Fi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Di meja, ada yang memindai menu. Beri dia aplikasinya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Sebuah poster, sebuah kode, teman yang ragu. Kirimkan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Mesin parkir berstiker. Ada yang butuh ini sekarang."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Kode di kafe. Biar orang berikutnya melihatnya dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Slip paket di pintu ada kodenya. Ceritakan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Dua teman, satu kode. Satu membagikan aplikasinya."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Selebaran berkode, teman yang penasaran. Kirimkan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Selera pemindaimu bagus. Selera boleh urun."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Orang sepertimu menjaganya gratis. Jadilah itu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu pilih yang tanpa iklan. Bayar pilihannya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Melewati iklan dengan gaya. Gaya boleh memberi."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu membaca huruf kecil. Tipe yang memberi."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Pilihan cerdas. Orang cerdas mentraktir kopi."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Kamu mencium penipuan. Kopi untuk hidungmu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Seleramu menjauhkan iklan. Lanjutkan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Pendukung dapat lencana. Kecil. Bagus sekali."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Lencananya mungil. Ketenangannya besar."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Lencana yang hanya kamu lihat. Hampir tato."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk menjaganya gratis untuk semua."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Berapa pun. Sekali atau bulanan. Tanpa paksaan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk, urusan selesai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Urun sekali. Lalu hening. Hampir selalu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk, satu jumlah, tanpa desakan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Tombolnya bernama Dukung. Satu ketuk cukup."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk. Tanpa akun, tanpa mengganggu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk menjaganya gratis buat yang berikut."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Satu ketuk, satu jumlah, satu salam dalam kode."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Lencana kecil menanti satu urunan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Mampir lagi, tanpa dendam. Cuma snackbar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Ada iklan yang menyamar jadi tombol Buka. Kirim ini."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Di tempat lain, tombol besarnya iklan. Ceritakan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Tulisan Pindai sering ada di iklan. Di sini tidak."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Di sini tak ada tombol menuju iklan. Ceritakan itu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Ada yang menekan tombol palsu sekarang. Tolong dia."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Tombol palsu hidup dari buru-buru. Aplikasi ini tidak."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Kalau tombolnya membuka iklan, itu iklan. Katakan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Tombol pindai seharusnya memindai. Gila, ya?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Makan malam enak? Oper aplikasinya seperti garam."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Menunya berupa kode. Meja ini butuh itu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Yang memindai saat makan pantas dapat yang benar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Antara pembuka dan pencuci mulut: bagikan sekali."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Tagihannya datang lewat kode. Biar meja ini tahu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Makan bersama, memindai bersama. Oper."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Satu meja, satu menu, satu kode. Satu bagikan."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Kirim ke siapa pun yang memindai lebih dulu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Bagikan selagi ingat."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Oper. Sekali cukup."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Tunjukkan ke orang di sebelahmu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Ceritakan ke satu orang. Lalu selesai."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Teruskan, lalu lanjut memindai dengan tenang."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Beri tahu teman yang kodenya ada seribu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Ketuk Bagikan. Sisanya satu ketukan lagi."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Buat hari seseorang: kirim aplikasinya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Kalau itu sepadan dengan kopi, ini saatnya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Makan enak, aplikasi gratis. Kopi balasan?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Pelayan sudah kebagian. Aplikasinya menunggu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Hidangan penutup lebih mahal dari pintanya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Menu dipindai, tagihan dibayar. Kopi?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Espresso sesudahnya. Kopi untuk aplikasinya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Meja ini bayar. Aplikasinya bertanya pelan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Kopi untuk aplikasinya: hidangan termurah."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Pesan ini tak kedaluwarsa. Hanya punya tombol."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Satu penggeser, satu tanya, nol iklan. Selesai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Aplikasinya minta sekali. Lalu kerja lagi."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Gratis adalah model bisnis. Dengan bantuan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Harganya tidak tetap. Ada di tanganmu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Tanpa banner, tanpa pop-up. Satu kalimat saja."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Pengembangannya jalan dengan kopi. Harfiah."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Seluruh permohonannya sepanjang satu kalimat."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Ketuk Dukung. Pilih jumlah. Selesai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Traktir kopi yang mengembangkannya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Urun sekali, lalu lupakan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Geser ke angka yang terasa pas."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Bayar sekali. Setelahnya hampir tak ditanya."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Ambil jumlah terkecil. Tetap dihitung."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Ketuk sekali, lalu kembali memindai."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Jauhkan iklan. Satu ketuk cukup."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Tinggalkan kopi. Aplikasinya ingat."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Itu membantu orang berikutnya yang memindainya."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Laporan seperti milik Anda membangun daftar ini."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Anda memikirkan orang asing. Terima kasih."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Ramalanmu: ponsel orang asing berterima kasih padamu."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Kue keberuntungan: satu laporan, banyak ponsel."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Ramalanmu: orang seperti Anda menghidupkan daftar ini."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "Siapa penopang daftar bersama? Orang seperti Anda."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "Siapa memikirkan orang berikutnya? Anda. Terima kasih."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "Terimalah ucapan ini. Datang dari semua yang memindai."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "Kebanyakan lewat saja. Anda memikirkan orang lain."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "Tanpa lencana. Orang menolong orang. Terima kasih."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Stiker, ponsel, ketukan. Satu daftar berterima kasih."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Seseorang yang tak akan Anda temui berterima kasih."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "Terima kasih. Begitulah daftar ini tetap milik semua."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Satu tautan yang Anda laporkan kini masuk daftar peringatan. Terima kasih."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Laporan Anda berhasil. Tautan itu kini memperingatkan orang yang memindainya."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Tautan yang Anda laporkan masuk daftar. Orang berikutnya melihat peringatan."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Masuk daftar berkat Anda. Tautan yang Anda laporkan kini memberi peringatan."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Laporan Anda masuk daftar. Pemindaian tautan itu kini menampilkan peringatan."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Karena laporan Anda, tautan itu kini ada di daftar peringatan. Terima kasih."
+}
+]

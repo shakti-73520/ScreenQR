@@ -1,0 +1,242 @@
+# The JVM unit suite on every pull request and, once a week, on main (the security review of 2026-09-09, finding
+# A4): no emulator here, the device legs stay on the box. What runs: the log hygiene gate, the l10n escape check,
+# and the debug unit tests of both flavors, which carry the security tests (ExportedComponentsTest, ReleaseSeamsTest,
+# ReleaseConfigurationTest, ContentParserFuzzTest, LogHygieneTest, SafetyBundleTest, NoLookupForPersonalDocumentsTest,
+# MaskedRowPathsTest, SensitiveClipTest, the history-at-rest tests). The release variants are not built: a release
+# build refuses off a tag by design (app/build.gradle.kts, the tag rule), so the release-variant assertion of
+# ReleaseSeamsTest stays a box-side check until a tagged build runs here.
+#
+# Three trigger shapes, and what each runs (the operator's word of 2026-09-11: the pull-request run is the gate, a
+# post-merge run repeats it). A pull request runs everything the change touches: the unit job above and the secrets
+# job, the unit job ending at its first step when the change is documentation only. A push to main runs the secrets
+# job alone: what landed is the merge ref the pull request already tested, so the unit job skips the push event (its
+# if: line). The weekly schedule (Sundays 05:23 UTC, an hour after the core's; on main, the default branch a
+# scheduled run checks out) runs everything, the safety net for merge skew, a pull request tested against a main
+# that moved before it landed: the unit job over the whole suite and the secrets job. A dispatch runs the same set,
+# with the fuzz budget it is given.
+#
+# The core submodule is not checked out: the JVM suite compiles against the Kotlin binding alone and never runs the
+# engine build (the cargo tasks of app/build.gradle.kts hang off the jniLibs merge of an assemble, which this job does
+# not run; NativeCore.available is false on the JVM and the tests use the fake engine; the one test that reads the
+# engine's JNI source, ReleaseConfigurationTest's entry-point check, skips itself here and says so), and the default
+# token cannot read the private core repository anyway. A job that assembles an APK would need a token that can read
+# verdetto-core (a GitHub App or a fine-grained token, the operator's), rustup with the pinned toolchain and the two
+# Android targets, the pinned NDK from the SDK manager and a cache keyed on the submodule commit (BUILD.md names the
+# inputs); none is added while Actions minutes are being cut (2026-09-10).
+#
+# Every action is GitHub-owned or from a verified creator and pinned to a commit SHA, as the repository's Actions
+# policy requires. Minutes (the operator, 2026-09-10: "optimize our github action minutes to use the least amount we
+# can"; the audit of that day: 117 runs and about 980 wall minutes since 2026-09-01, the unit job 9 to 12 minutes on
+# both flavors, the secrets job under a minute but billed as one, on the free plan's 2,000 a month for private
+# repositories; a job bills its wall time rounded up to the minute), so the triggers are main, pull requests and
+# the weekly schedule, never every branch push, and the unit job skips the push event (the paragraph above); a
+# documentation-only change ends the unit job at its first step (the "Documentation-only change?" step says what
+# counts and what the skipped job means; the secrets job always runs); the test reports are kept seven days. The
+# Gradle cache is setup-gradle's, written by a run on main (the weekly schedule, or a dispatch there) and read-only
+# elsewhere.
+#
+# The build resolves only the artifacts it resolved on the box (the security review's A9, 2026-09-10): the lock files
+# (gradle.lockfile in app, baselineprofile and buildSrc; buildscript-gradle.lockfile and settings-gradle.lockfile at the
+# root), gradle/verification-metadata.xml (a SHA-256 per
+# artifact, strict mode) and the wrapper's distributionSha256Sum are all in the tree, so the Gradle step below refuses a
+# version outside the lock state, an artifact with a different or missing checksum, and a distribution with a different
+# checksum, with nothing added here but the explicit mode flag. The guard step proves the files are present before Gradle
+# runs, since a missing verification-metadata.xml would mean no verification rather than a failure. Never `--write-locks`
+# or `--write-verification-metadata` here: the refresh is a reviewed commit from the box (README, the build section), and
+# a Dependabot catalog bump fails this workflow until that refresh lands with it. The setup-gradle action validates the
+# wrapper jar against Gradle's published checksums by default (its `validate-wrappers` input).
+# The secrets job (the security review's finding B10) is the other job: the own secret pattern check over the tree
+# (tools/hygiene/secret_check.py), then gitleaks over the full history, a pinned release verified by its sha256
+# before it is unpacked, no action involved. It is short, one download and one pass over the history; its own
+# comment says the rest.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "23 5 * * 0"   # Sundays, the full run on main; the core's is 04:23
+  workflow_dispatch:
+    inputs:
+      fuzz_budget:
+        description: "VERDETTO_FUZZ_BUDGET for ContentParserFuzzTest: short or full"
+        required: false
+        default: "short"
+
+permissions:
+  contents: read
+
+concurrency:
+  # The event name keeps a Sunday push to main from cancelling the weekly run: both resolve to refs/heads/main.
+  group: ci-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  unit:
+    # Never on the push event (the operator's word of 2026-09-11): the pull-request run on the merge ref is the gate,
+    # and a post-merge run of the same suite on main repeats it for the same minutes. Pull requests, the weekly
+    # schedule (the safety net for merge skew, on main) and a dispatch run it.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 2   # HEAD and its parents: the documentation-only step diffs HEAD against its first parent
+
+      - name: Documentation-only change? (when it is, every later step of this job is skipped)
+        # The docs-only skip (2026-09-10). The changed files are listed against the base: for pull_request the base
+        # branch's tip (the checkout is the pull request's merge commit, whose first parent is that tip and whose
+        # second parent is the pull request's head, both checked), for a push to main the previous tip
+        # (github.event.before, accepted only when it is HEAD's first parent, so several commits pushed at once run
+        # everything; this job no longer runs on push, since 2026-09-11, and the branch stays for the day it does). A
+        # schedule or a dispatch has no base to diff against, so it runs everything: the weekly run on main is the
+        # full suite by construction. Documentation is: Markdown anywhere (*.md, *.markdown), files under docs/,
+        # .gitleaksignore, .github/FUNDING.yml, .gitattributes and the root LICENSE files. When every changed file is
+        # documentation, the steps below are skipped and the job ends at the step named "skipped: documentation only"
+        # with the conclusion success: a heavy job skipped this way counts as a pass for a documentation-only change,
+        # and the merge watches of the Security lane, which read the job's conclusion, read it as one. Any other file,
+        # this workflow included, runs the full suite exactly as before: the gate for code stays the whole suite (the
+        # whole JVM suite on both flavors, the app's branch gate). Anything the step cannot resolve (another event,
+        # no base, an empty list, a merge shape it does not recognise) runs the suite too. No test and no gate reads
+        # a Markdown file (checked 2026-09-10: the log gate reads app/src/main Kotlin, the escape check the strings
+        # files, the source-text pins Kotlin and Gradle sources); a test that starts to would take Markdown off this
+        # list. The secrets job never skips. A step rather than a job of its own because a job bills a full minute on
+        # every run even when it takes seconds; a skipped step bills nothing.
+        id: changes
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PUSH_BEFORE: ${{ github.event.before }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          docs_only=false
+          base=""
+          zero=0000000000000000000000000000000000000000
+          case "$EVENT_NAME" in
+            pull_request)
+              if [ -n "$PR_HEAD_SHA" ] && [ "$(git rev-parse --verify -q HEAD^2 || true)" = "$PR_HEAD_SHA" ]; then base=HEAD^1; fi ;;
+            push)
+              if [ -n "$PUSH_BEFORE" ] && [ "$PUSH_BEFORE" != "$zero" ] && [ "$(git rev-parse --verify -q HEAD^1 || true)" = "$PUSH_BEFORE" ]; then base=HEAD^1; fi ;;
+            schedule|workflow_dispatch) ;;   # no base to diff against: everything runs
+          esac
+          files=""
+          if [ -n "$base" ]; then
+            files=$(git diff --name-only --no-renames "$base" HEAD)
+          fi
+          if [ -n "$files" ]; then
+            docs_only=true
+            while IFS= read -r f; do
+              case "$f" in
+                *.md|*.markdown) ;;
+                docs/*) ;;
+                .gitleaksignore|.gitattributes|.github/FUNDING.yml) ;;
+                LICENSE|LICENSE.*|LICENSE-*|LICENCE|LICENCE.*|LICENCE-*)
+                  case "$f" in */*) docs_only=false; echo "not documentation: $f" ;; esac ;;
+                *) docs_only=false; echo "not documentation: $f" ;;
+              esac
+            done <<< "$files"
+          fi
+          echo "docs_only=$docs_only" >> "$GITHUB_OUTPUT"
+          if [ "$docs_only" = true ]; then
+            echo "::notice title=unit::skipped: documentation only"
+            { echo "## skipped: documentation only"; echo; echo "Every changed file is documentation, so the suite did not run and this job counts as a pass:"; echo; echo '```'; echo "$files"; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+            echo "skipped: documentation only"; echo "$files"
+          else
+            echo "the suite runs (event $EVENT_NAME, base ${base:-none})"
+          fi
+
+      - uses: actions/setup-java@b6effb05e454b25005698d916606bdc6ffcbf961 # v5
+        if: steps.changes.outputs.docs_only != 'true'
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - uses: gradle/actions/setup-gradle@0723195856401067f7a2779048b490ace7a47d7c # v5
+        if: steps.changes.outputs.docs_only != 'true'
+        with:
+          cache-read-only: ${{ github.ref != 'refs/heads/main' }}
+
+      - name: The supply-chain controls are in the tree (A9)
+        if: steps.changes.outputs.docs_only != 'true'
+        run: |
+          for f in buildscript-gradle.lockfile settings-gradle.lockfile app/gradle.lockfile baselineprofile/gradle.lockfile buildSrc/gradle.lockfile; do
+            test -s "$f" || { echo "missing lock file: $f"; exit 1; }
+          done
+          grep -q '<verify-metadata>true</verify-metadata>' gradle/verification-metadata.xml
+          grep -q '^org.gradle.dependency.verification=strict$' gradle.properties
+          grep -q '^distributionSha256Sum=[0-9a-f]\{64\}$' gradle/wrapper/gradle-wrapper.properties
+          ! grep -q 'trusted-artifacts' gradle/verification-metadata.xml
+
+      - name: Log hygiene gate and the l10n escape check
+        if: steps.changes.outputs.docs_only != 'true'
+        run: |
+          python3 tools/hygiene/log_check.py
+          python3 tools/l10n/escape_check.py
+
+      - name: Debug unit suite, both flavors (the security tests included)
+        if: steps.changes.outputs.docs_only != 'true'
+        env:
+          VERDETTO_FUZZ_BUDGET: ${{ inputs.fuzz_budget || 'short' }}
+        run: |
+          chmod +x gradlew   # the Windows checkout carries no executable bit
+          ./gradlew --no-daemon --stacktrace --dependency-verification=strict testPlayDebugUnitTest testFossDebugUnitTest
+
+      - name: Keep the test reports
+        if: always() && steps.changes.outputs.docs_only != 'true'
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: unit-reports-${{ github.run_id }}
+          path: app/build/reports/tests/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: "skipped: documentation only"
+        if: steps.changes.outputs.docs_only == 'true'
+        run: |
+          echo "skipped: documentation only (the Documentation-only step above lists the files)"
+
+  secrets:
+    # The security review of 2026-09-09, finding B10: a private repository on the free plan gets no secret scanning
+    # from GitHub, and the one pre-flip control carries no secret pattern. So a machine-run scan on every event this
+    # workflow has: every push to main (the one job a push runs, since 2026-09-11), every pull request, the weekly
+    # schedule and a dispatch, in two steps. First the own pattern check over the working tree
+    # (tools/hygiene/secret_check.py, standard library only), so a hit is visible even when the download behind it
+    # fails. Then gitleaks over the full history, which is why this checkout alone fetches every commit: a release
+    # pinned by version and by the sha256 of its linux x64 archive, checked before the archive is opened (not the
+    # gitleaks action, which needs a licence on an organisation's repositories). A finding fails the job. A false
+    # positive, when one appears, is an allowlist entry in a .gitleaks.toml at the root, which gitleaks reads on its
+    # own; there is none yet.
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: The own pattern check over the working tree (GitHub, AWS, Cloudflare and Google keys, private-key blocks)
+        run: |
+          python3 tools/hygiene/secret_check.py --self-test
+          python3 tools/hygiene/secret_check.py
+
+      - name: gitleaks 8.30.1, the linux x64 archive verified against its pinned sha256 before it is unpacked
+        env:
+          GITLEAKS_VERSION: "8.30.1"
+          GITLEAKS_SHA256: "551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb"
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/gitleaks"
+          cd "$RUNNER_TEMP/gitleaks"
+          archive="gitleaks_${GITLEAKS_VERSION}_linux_x64.tar.gz"
+          curl -fsSL --retry 3 -o "$archive" "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/${archive}"
+          echo "${GITLEAKS_SHA256}  ${archive}" | sha256sum --check --strict
+          tar -xzf "$archive"
+          ./gitleaks version
+
+      - name: gitleaks over the full history (a finding fails the job)
+        run: |
+          "$RUNNER_TEMP/gitleaks/gitleaks" git --no-banner --redact --verbose

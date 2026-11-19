@@ -1,0 +1,34 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+# *.apk
+*.aab
+*.keystore
+
+# JVM crash dumps and stray logs
+hs_err_pid*.log
+*.log
+
+# build outputs of every module (the baseline profile module included)
+build/
+# walk and matrix outputs; the evidence copies live in the reference repository
+tools/screens/out/
+# the wordmark generator's geometry record and preview; the drawable it writes is tracked
+tools/brand/out/
+# the engine's own ignore rules live in the core/ submodule
+# the engine is built from core/ by the cargo tasks (app/build.gradle.kts, 2026-09-06); no prebuilt library returns here
+/app/src/main/jniLibs/**/*.so
+
+# Python caches of the tool scripts
+__pycache__/
+
+# releases go to Google Play, F-Droid and the GitHub releases (RELEASE.md): never an APK or an app bundle in the repository
+# *.apk
+*.aab

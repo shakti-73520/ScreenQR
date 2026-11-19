@@ -1,0 +1,60 @@
+# rot13, a blocked word's cells space-separated; built by tools/wordsearch/banks.py from the books' blocked.txt
+A H Q R
+A N M V
+A V T T N
+A V T T R E
+C B B C
+C B E A
+C E V P X
+C R A V F
+C V F F
+E N C R
+E R G N E Q
+F C V P
+F R K
+F U V G
+F X N A X
+F Y H G
+F Y N T
+G H E Q
+G J N G
+G V G F
+I N T V A N
+J N A X
+J U B E R
+N A H F
+N A N Y
+N E F R
+N F F
+O B B O
+O N F G N E Q
+O V G P U
+P B P X
+P E N C
+P H A G
+P H Z
+P U V A X
+Q V P X
+Q V Y Q B
+S H P X
+S N E G
+S N T
+W V M M
+X V X R
+# 2026-11-12 (the Leader; the review of 2026-11-12, findings 2 and 3): WHORE's line spelled right; the classes the other lists block
+U V G Y R E
+V Q V B G
+X V Y Y
+Q R N Q
+Q R N G U
+Z H E Q R E
+Q E H T
+Q E H T F
+Z R G U
+U R Y Y
+Q N Z A
+U N G R
+F H P X
+F R Z R A
+C V Z C
+B E T L

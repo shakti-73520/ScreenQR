@@ -1,0 +1,51 @@
+{
+  "code": [
+    {"name": "ZXing core", "license": "Apache 2.0", "url": "https://github.com/zxing/zxing"},
+    {"name": "zxing-cpp", "license": "Apache 2.0", "url": "https://github.com/zxing-cpp/zxing-cpp"},
+    {"name": "AndroidX", "license": "Apache 2.0", "url": "https://developer.android.com/jetpack/androidx"},
+    {"name": "Kotlin", "license": "Apache 2.0", "url": "https://kotlinlang.org"},
+    {"name": "Rust jni crate", "license": "Apache 2.0 / MIT", "url": "https://crates.io/crates/jni"},
+    {"name": "EdDSA (net.i2p.crypto:eddsa)", "license": "CC0 1.0", "url": "https://github.com/str4d/ed25519-java"},
+    {"name": "Google Play Billing", "license": "Android SDK License", "url": "https://developer.android.com/google/play/billing", "artifact": "com.android.billingclient"},
+    {"name": "Roboto", "license": "SIL Open Font License 1.1", "url": "https://fonts.google.com/specimen/Roboto"},
+    {"name": "libphonenumber, with its geocoding and carrier data", "license": "Apache 2.0", "url": "https://github.com/google/libphonenumber"},
+    {"name": "Droid Sans Mono", "license": "Apache 2.0", "url": "https://android.googlesource.com/platform/frameworks/base/+/refs/heads/main/data/fonts/"}
+  ],
+  "data": [
+    {"name": "GeoNames postal codes", "license": "CC BY 4.0", "url": "https://www.geonames.org"},
+    {"name": "AIFA Anagrafica Farmaci (Italian Medicines Agency), a reformatted extract", "license": "CC BY 4.0", "url": "https://www.aifa.gov.it/liste-dei-farmaci"},
+    {"name": "Open Food Facts", "license": "ODbL 1.0, opendatacommons.org/licenses/odbl/1-0; the copy and its changes are offered at lookup.verdettoqr.com", "url": "https://world.openfoodfacts.org"},
+    {"name": "Open Products Facts", "license": "ODbL 1.0, opendatacommons.org/licenses/odbl/1-0; the copy and its changes are offered at lookup.verdettoqr.com", "url": "https://world.openproductsfacts.org"},
+    {"name": "Open Beauty Facts", "license": "ODbL 1.0, opendatacommons.org/licenses/odbl/1-0; the copy and its changes are offered at lookup.verdettoqr.com", "url": "https://world.openbeautyfacts.org"},
+    {"name": "Open Pet Food Facts", "license": "ODbL 1.0, opendatacommons.org/licenses/odbl/1-0; the copy and its changes are offered at lookup.verdettoqr.com", "url": "https://world.openpetfoodfacts.org"},
+    {"name": "Open Library", "license": "no rights asserted by the Internet Archive over the data", "url": "https://openlibrary.org"},
+    {"name": "Deutsche Nationalbibliothek title data", "license": "CC0 1.0; the copy on lookup.verdettoqr.com is credited with its date", "url": "https://www.dnb.de"},
+    {"name": "Bibliothèque nationale de France, data.bnf.fr", "license": "Licence Ouverte / Open Licence (Etalab); the source and the copy's date are shown with the data", "url": "https://data.bnf.fr"},
+    {"name": "MusicBrainz", "license": "core data, CC0 1.0 (the copy); the online lookup under MetaBrainz's API terms, pre-revenue use confirmed by email on 2026-09-07, rate limited and attributed", "url": "https://musicbrainz.org"},
+    {"name": "openFDA", "license": "US public domain, CC0; FDA does not endorse this app", "url": "https://open.fda.gov"},
+    {"name": "NHTSA", "license": "US public domain; NHTSA does not endorse this app", "url": "https://vpic.nhtsa.dot.gov"},
+    {"name": "EPA fuel economy data", "license": "US public domain; EPA does not endorse this app", "url": "https://www.fueleconomy.gov"},
+    {"name": "Crossref", "license": "reuse without restriction", "url": "https://www.crossref.org"},
+    {"name": "AEMPS CIMA (Spain's medicines agency)", "license": "Spanish public-sector reuse terms", "url": "https://cima.aemps.es"},
+    {"name": "EUDAMED (European Commission)", "license": "CC BY 4.0", "url": "https://ec.europa.eu/tools/eudamed"},
+    {"name": "DailyMed (US National Library of Medicine)", "license": "US public domain", "url": "https://dailymed.nlm.nih.gov"},
+    {"name": "RxNav (US National Library of Medicine)", "license": "US public domain", "url": "https://rxnav.nlm.nih.gov"},
+    {"name": "US Consumer Product Safety Commission recalls", "license": "US public domain", "url": "https://www.cpsc.gov/Recalls"},
+    {"name": "Wikidata", "license": "CC0 1.0", "url": "https://www.wikidata.org"},
+    {"name": "BIP-39 English word list (bitcoin/bips)", "license": "MIT", "url": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt"}
+  ],
+  "bundle": [
+    {"name": "Public Suffix List", "license": "MPL 2.0", "url": "https://publicsuffix.org"},
+    {"name": "url-shorteners list by PeterDaveHello", "license": "CC BY-SA 4.0", "url": "https://github.com/PeterDaveHello/url-shorteners"},
+    {"name": "Affiliate redirect hosts (the safety list's curated file)", "license": "CC BY-SA 4.0", "url": "https://gitlab.com/verdettoqr/link-safety-list"},
+    {"name": "Unicode confusables", "license": "Unicode License", "url": "https://www.unicode.org/Public/security/latest/confusables.txt"},
+    {"name": "Majestic Million", "license": "CC BY 3.0", "url": "https://majestic.com/reports/majestic-million"},
+    {"name": "CERT Polska warning list (NASK-PIB)", "license": "free to process without restriction (API specification v1.2, section 1)", "url": "https://hole.cert.pl/domains"},
+    {"name": "PhishDestroy destroylist", "license": "MIT", "url": "https://github.com/phishdestroy/destroylist"},
+    {"name": "polkadot-js phishing list", "license": "Apache 2.0", "url": "https://github.com/polkadot-js/phishing"},
+    {"name": "PhishTank", "license": "PhishTank terms", "url": "https://phishtank.org"},
+    {"name": "Base de données publique des médicaments (ANSM)", "license": "Licence Ouverte / Open Licence 1.0 (the BDPM's licence file: base-donnees-publique.medicaments.gouv.fr/docs/telechargement/licence_bdpm.pdf)", "url": "https://base-donnees-publique.medicaments.gouv.fr"},
+    {"name": "Deutsche Bundesbank bank sort code file", "license": "the Bundesbank's website terms (Quelle: Deutsche Bundesbank)", "url": "https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/serviceangebot/bankleitzahlen"},
+    {"name": "OFAC SDN digital-currency addresses", "license": "US public domain", "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"}
+  ]
+}

@@ -1,0 +1,1382 @@
+[
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "Kostenlos, weil Menschen es weitergeben."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Teilen hält es kostenlos. Gib es weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Dein Glückskeks: Jemand wird dir dafür danken."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Kennst du wen, der noch auf die Anzeige tippt?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Mundpropaganda ist die ganze Werbeabteilung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "contrast",
+"t": "Ein Teilen ist die ganze Werbekampagne."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Der Glückskeks sagt: weitergeben."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "plain",
+"t": "In deiner Gruppe braucht das jemand."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "instruction",
+"t": "Sag es einer Person. So bleibt es kostenlos."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "short",
+"t": "Für die anderen ist es auch kostenlos."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Teilen ist gratis. Die App auch. Witzig."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Verdetto hat kein Werbebudget. Es hat dich."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Glückskeks: Gutes Werkzeug wandert weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Zweimal tippen: Ein Freund sieht Links vorher."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Schick es dem, der am Tisch die Karte scannt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fact",
+"t": "Die App, die Menschen durch Menschen fanden."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Teilen: fünf Sekunden. Werbung: ewig."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Dein Glückskeks: ein Link bleibt zu, dank dir."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Bezahlt von den Menschen, die es nutzen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Keine Werbung, weil Leute mithelfen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Glückskeks: Werbefrei, dank Leuten wie dir."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "scenes",
+"t": "War das einen Kaffee wert? Dann jetzt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Das Geschäftsmodell heißt Dankeschön."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Der Glückskeks sagt: mithelfen, gut fühlen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Keine Investoren. Nur Unterstützer."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Kostenlos gehalten von Leuten, die es mögen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "wink",
+"t": "An dieser Stelle stört sonst Werbung."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Ein Abzeichen gefällig? Einmal mithelfen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Einmal tippen, einmal zahlen, jeder Betrag."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Unterstützer halten Werbung fern. Dabei?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fact",
+"t": "Werbefrei aus Überzeugung, dank Unterstützern."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Glückskeks: Kein Plakat, aber ein Abzeichen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "contrast",
+"t": "Dank statt Werbung. Das ist der ganze Plan."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "instruction",
+"t": "Einmal mithelfen: Es bleibt für alle gratis."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "plain",
+"t": "Für alle gratis, weil manche mithelfen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Wer mithalf, macht es für dich gratis."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Ein Tipp, und jemand sieht Links vorher."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Leise gesagt: Die App wächst durch Erzählen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "whisper",
+"t": "Unter uns: Wer sie hat, hat sie von jemandem."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Horoskop: Ein gutes Werkzeug zieht heute um."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fortune",
+"t": "Teeblätter sagen: Jemand nebenan braucht das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Eine Snackbar. Keine Anzeige. Weitersagen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Eine App, die einmal im Monat fragt. Punkt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Kein Knopf hier ist Werbung. Ende der Meldung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Werbebudget: null. Werbeabteilung: du."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Liest Codes. Zeigt Links. Sagt es niemandem."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "deadpan",
+"t": "Nüchtern: Ein Teilen ist eine ganze Kampagne."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Wer bei dir öffnet jeden Link? Schick es hin."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Wer fragte zuletzt: Ist das echt? Er ist dran."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Wer scannt bei euch die Speisekarte für alle?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Wem würdest du Werbung ersparen? Genau dem."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "questions",
+"t": "Wer zu Hause tippt noch den falschen Knopf?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Kostenlos, weil Menschen sie empfehlen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Jede Empfehlung ist die ganze Werbeabteilung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Vorher gesehen ist der halbe Betrug schon weg."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Niemand hat diese App je in Werbung gesehen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "truths",
+"t": "Was nichts kostet, reist nur von Mund zu Mund."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Irgendwo seufzt ein Werber. Teil den Seufzer."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Ein Betrüger spürt Zugluft. Mach sie kälter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Die Snackbar winkt. Das tun Snackbars nie."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "absurd",
+"t": "Ein falscher Knopf weint leise. Teil das."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Psst. Werbefrei, weil Leute Kaffee ausgeben."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Leise gesagt: Egal wie viel. Der Tipp zählt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "whisper",
+"t": "Unter uns: Die Ruhe hier hat jemand bezahlt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Horoskop: Kleiner Beitrag, leichter Abend."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Die Karten sagen: Ein Tipp, dann Ruhe im Kopf."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "fortune",
+"t": "Die Sterne sagen: Heute gibt jemand dazu. Du?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Ein Tipp, ein Betrag, einmal oder monatlich."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Hier stört sonst eine Anzeige. Heute nicht."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Geschäftsmodell: Leute geben Kaffee aus."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Der Regler geht vom Kaffee bis zum Abendessen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "War das einen Kaffee wert? Der Regler wartet."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Kleingeld übrig? Die Entwicklung merkt es."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Was ist eine Werbepause wert, die nie kam?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Einmal tippen, einmal geben. Heute vielleicht?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "questions",
+"t": "Welcher Betrag fühlt sich richtig an? Der."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Bezahlt wird sie von denen, die sie benutzen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Ein Beitrag hält die Anzeigen von allen fern."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Kein Investor, kein Werbenetz. Nur ein Regler."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Jeder Kaffee hier landet im Code. Und in Ruhe."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "truths",
+"t": "Unterstützer zahlen, damit niemand sonst muss."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Der Code hat Hunger. Füttere ihn."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Irgendwo weint ein Werber. Lass ihn weinen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "absurd",
+"t": "Der Regler träumt von einem Kaffee. Weck ihn."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Weggewischt. Ich war spazieren. War schön."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Ein Wisch, ein Monat. Der Knopf kam mit."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Schneller Wisch. Ich habe ihn respektiert."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Vor einem Monat weggewischt. Knopf ist zurück."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Der Wisch gilt. Ich streite nicht mit ihm."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Weggewinkt, höflich zurück. Derselbe Knopf."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Notiert, ohne Groll: ein Wisch. Und wieder da."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Die Nachbarn haben noch nichts davon gehört."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Empfehlung schlägt Werbung. Frag die Werbung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Gib es weiter. Die App merkt angeblich nichts."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Kleiner Gefallen: einem erzählen. Dann Pause."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Scannen ist Mannschaftssport. Hol wen dazu."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Jemand Liebes scannt Laternen-Sticker. Hilf."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Die Handys deiner Freunde könnten mehr. Punkt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dry",
+"t": "Ein Freund öffnet QR-Links blind. Rette ihn."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Ich war eine Weile weg. Der Knopf blieb hier."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Vor einem Monat unterm Daumen weg. Alles gut."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Ein Monat im Regal. Der Knopf ist abgestaubt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Der letzte Wisch tat nicht weh. Ein Kaffee?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Letztes Mal: ein Daumen, ein Plan. Verstanden."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Einmal weggewischt. Zurück, irgendein Monat."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Ich fragte, du wischtest. Beides vernünftig."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "remembers",
+"t": "Der Wisch war knackig. Zurück, auch knackig."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Für Gratis zahlen. Es gab schon Seltsameres."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Die App will mehr Gehalt. Ihr Chef bist du."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Zahl, was du magst. Feilschen kann sie nicht."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Gib dazu oder lass es. Beides ist okay."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Andere Apps: hier Werbung. Diese: eine Frage."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Die App läuft auf gutem Willen und Sturheit."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dry",
+"t": "Die App weiß, es ist peinlich. Fragt trotzdem."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Guter Riecher für Apps. Gib ihn weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Du nahmst die ohne Werbung. Sag wem, warum."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Links lesen vor dem Tippen. Selten. Teil das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Du bist der Grund, warum es Empfehlungen gibt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Geschmack wie deiner sollte sich verbreiten."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Du liest das Kleingedruckte. Erzähl es weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Deine Freunde haben es gut mit dir. Zeig es."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "compliments",
+"t": "Kluge Wahl. Kluge Leute geben sie weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Im Gruppenchat wartet jemand genau darauf."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Wer im Chat tippt noch die Anzeige? Schick es."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Der Familienchat fragt. Hier ist eine Antwort."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "In die Gruppe damit. Alle sehen Links vorher."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Im Chat fragt wer: Ist das echt? Antworte so."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Der Chat teilt Memes. Teil mal was Nützliches."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Onkel, Tante, Nachbar: Einer tippt Werbung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "groupchat",
+"t": "Ab in den Chat, der immer nach WLAN fragt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Zwei Tipps, und ein Freund sieht Links vorher."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Für den Freund, der immer nach dem WLAN fragt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Am Tisch scannt einer die Karte. Gib ihm das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Plakat, Code, Freund mit Zweifeln. Schick es."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Parkautomat mit Aufkleber. Jemand braucht das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Code im Café. Der Nächste sieht ihn vorher."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Paketzettel mit Code an der Tür. Erzähl es."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Zwei Freunde, ein Code. Einer teilt die App."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "scenes",
+"t": "Flyer mit Code, Freund mit Neugier. Schick es."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Guter Riecher. Er darf gern mitzahlen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Leute wie du halten es kostenlos. Sei einer."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Du nahmst die ohne Werbung. Zahl die Wahl mit."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Werbung überspringst du mit Stil. Stil gibt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Du liest Kleingedrucktes. Der Typ, der gibt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Kluge Wahl. Kluge Leute geben einen Kaffee."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Du riechst Betrug. Ein Kaffee für den Riecher."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "compliments",
+"t": "Dein Geschmack hält Werbung fern. Weiter so."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Willst du ein Abzeichen? Gib einmal dazu."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Unterstützer bekommen ein Abzeichen. Fein."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Das Abzeichen ist winzig. Die Ruhe ist groß."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "perks",
+"t": "Ein Abzeichen, das nur du siehst. Fast Tattoo."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Mit einem Tipp bleibt es für alle kostenlos."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Jeder Betrag, einmal oder monatlich. Fertig."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Ein Tipp, und die Sache ist erledigt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Einmal geben. Danach: Ruhe. Fast immer."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Ein Tipp, ein Betrag, du wählst den Rhythmus."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Der Knopf heißt Unterstützen. Ein Tipp reicht."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Einmal tippen. Kein Konto, kein Nachhaken."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Ein Tipp hält sie für den Nächsten kostenlos."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "onetap",
+"t": "Ein Tipp, ein Betrag, ein leiser Gruß im Code."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "remembers",
+"t": "Wieder da, ohne Groll. Nur eine Snackbar."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Irgendwo verkleidet sich Werbung als „Öffnen“."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Anderswo ist der große Knopf Werbung. Sag es."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "„Scannen“ steht oft auf Werbung. Nicht hier."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Hier führt kein Knopf in Werbung. Erzähl das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Jemand tippt gerade den falschen Knopf. Hilf."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Der falsche Knopf lebt von Eile. Wir nicht."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Öffnet der Knopf Werbung, ist er Werbung."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "fakebutton",
+"t": "Ein Scan-Knopf soll scannen. Verrückt, oder?"
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Gutes Essen? Reich die App rum wie das Salz."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Die Karte war ein Code. Der Tisch braucht das."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Wer beim Essen scannt, verdient die richtige."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Zwischen Suppe und Nachtisch: einmal teilen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Die Rechnung kommt per Code. Sag es dem Tisch."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Zusammen essen, zusammen scannen. Gib es rum."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "dinner",
+"t": "Ein Tisch, eine Karte, ein Code. Ein Teilen."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Schick es dem, der zuerst scannt."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Teil es, solange du daran denkst."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Gib es weiter. Einmal reicht."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Zeig es der Person neben dir."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Erzähl es einer Person. Dann bist du fertig."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Leite es weiter, dann scann in Ruhe weiter."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Sag es dem Freund mit den vielen QR-Codes."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Tipp auf Teilen. Der Rest ist ein Tipp."
+},
+{
+"ask": "share",
+"cls": "any",
+"cat": "imperatives",
+"t": "Mach jemandem den Tag: Schick die App."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Einen Kaffee wert? Dann ist das der Moment."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Essen gut, App gratis. Ein Kaffee zurück?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Der Kellner hat seins. Die App wartet noch."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Ein Dessert kostet mehr, als sie je wollte."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Karte gescannt, Rechnung bezahlt. Ein Kaffee?"
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Espresso danach. Und ein Kaffee für die App."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Der Tisch hat gezahlt. Die App fragt leise."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "dinner",
+"t": "Ein Kaffee für die App: der billigste Gang."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Diese Meldung läuft nie ab. Nur ein Knopf."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Ein Regler, eine Frage, keine Werbung. Fertig."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Die App bittet einmal. Dann arbeitet sie."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Kostenlos ist ein Geschäftsmodell. Mit Hilfe."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Der Preis steht nicht fest. Er steht bei dir."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Kein Banner, kein Pop-up. Ein einzelner Satz."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Die Entwicklung läuft auf Kaffee. Wörtlich."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "deadpan",
+"t": "Das ist die ganze Bettelei. Ein Satz lang."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Tipp Unterstützen. Wähl einen Betrag. Fertig."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Gib der Entwicklung einen Kaffee aus."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Gib einmal dazu und vergiss es dann."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Schieb den Regler dahin, wo es passt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Zahl einmal. Danach fragt fast niemand mehr."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Nimm den kleinsten Betrag. Er zählt genauso."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Tipp kurz, dann zurück zum Scannen."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Halt die Anzeigen fern. Ein Tipp genügt."
+},
+{
+"ask": "support",
+"cls": "any",
+"cat": "imperatives",
+"t": "Lass einen Kaffee da. Die App merkt es sich."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Das hilft dem Nächsten, der das scannt. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Meldungen wie deine bauen die Liste. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "whisper",
+"t": "Psst. Du hast an Fremde gedacht. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Glückskeks: das Telefon eines Fremden dankt dir."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Glückskeks sagt: eine Meldung, viele Telefone. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "fortune",
+"t": "Glückskeks: Leute wie du halten die Liste am Laufen."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "Wer trägt eine gemeinsame Liste? Leute wie du. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "questions",
+"t": "Wer denkt an den Nächsten? Du hast es getan. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "instruction",
+"t": "Nimm den Dank. Er kommt von allen, die scannen."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "Die meisten scrollen weiter. Du dachtest an andere."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "contrast",
+"t": "Kein Abzeichen. Nur Menschen, die Menschen helfen."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Aufkleber, Telefon, Tipp. Die ganze Liste sagt Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "scenes",
+"t": "Jemand, den du nie triffst, ist froh darüber. Danke."
+},
+{
+"ask": "report",
+"cls": "reported",
+"cat": "plain",
+"t": "Danke. So bleibt die Liste allen gemeinsam."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Ein Link, den du gemeldet hast, steht jetzt auf der Warnliste. Danke."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Deine Meldung hat gewirkt. Dieser Link warnt jetzt alle, die ihn scannen."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Dein gemeldeter Link ist gelistet. Der Nächste sieht beim Scannen die Warnung."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Gelistet, dank dir. Der gemeldete Link warnt nun jeden, der ihn scannt."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Deine Meldung kam auf die Liste. Ein Scan des Links zeigt nun eine Warnung."
+},
+{
+"ask": "report",
+"cls": "listed",
+"cat": "plain",
+"t": "Weil du den Link gemeldet hast, steht er nun auf der Warnliste. Danke."
+}
+]

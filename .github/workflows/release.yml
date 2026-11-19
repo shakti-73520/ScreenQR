@@ -1,0 +1,70 @@
+name: Release build
+
+# The foss release APK, unsigned, built the way F-Droid builds it (RELEASE.md, sections 2 and 3): the tag vX.Y.Z gives
+# the version (buildSrc TagVersion), the engine compiles from the core submodule with the pinned Rust toolchain and NDK,
+# no timestamps, no build-time secrets, no key. The job uploads the APK, its SHA-256 and the engine records as a
+# workflow artifact; the operator rebuilds, compares byte for byte (tools/release/apk_compare.py), signs through the
+# YubiKey and creates the GitHub release by hand. Nothing is published from here.
+
+on:
+  push:
+    tags: ["v[0-9]+.[0-9]+.[0-9]+"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-build-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  foss-unsigned:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          submodules: true
+          fetch-depth: 0
+          fetch-tags: true
+
+      - uses: actions/setup-java@dd06d9cba3e5552c54d9f8ea23572deb30010f7c # v6.0.0
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Install the pinned NDK
+        run: |
+          version="$(sed -n 's/^verdetto\.ndkVersion=//p' gradle.properties)"
+          test -n "$version"
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --install "ndk;$version" > /dev/null
+          cat "$ANDROID_HOME/ndk/$version/source.properties"
+
+      - name: Install the pinned Rust toolchain
+        run: |
+          read -r channel targets <<< "$(python3 -c 'import tomllib; t = tomllib.load(open("toolchain/rust-toolchain.toml", "rb"))["toolchain"]; print(t["channel"], ",".join(t["targets"]))')"
+          args=""
+          for target in ${targets//,/ }; do args="$args --target $target"; done
+          rustup toolchain install "$channel" --profile minimal $args
+          rustup run "$channel" rustc --version
+
+      - name: Build the foss release APK, unsigned
+        run: ./gradlew --no-daemon --console=plain -Pverdetto.cargoJobs=2 :app:assembleFossRelease
+
+      - name: Name the outputs
+        id: outputs
+        run: |
+          version="${GITHUB_REF_NAME#v}"
+          mkdir -p release
+          cp app/build/outputs/apk/foss/release/app-foss-release-unsigned.apk "release/verdetto-$version-foss-unsigned.apk"
+          for abi in app/build/rust/*/; do cp "$abi/record.txt" "release/engine-$(basename "$abi").txt"; done
+          (cd release && sha256sum -- *.apk > SHA256SUMS-unsigned && cat SHA256SUMS-unsigned)
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: verdetto-${{ steps.outputs.outputs.version }}-foss-unsigned
+          path: release/
+          if-no-files-found: error
+          retention-days: 90
