@@ -19,7 +19,7 @@ zxing = "3.5.4"
 eddsa = "0.3.0"
 libphonenumber = "9.0.38"
 libphonenumberGeocoder = "3.38"
-libphonenumberCarrier = "2.38"
+libphonenumberCarrier = "2.43"
 junit = "4.13.2"
 
 [libraries]
